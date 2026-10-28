@@ -1,0 +1,580 @@
+{
+  "id": "grammar",
+  "title": "Grammar in Context",
+  "tagline": "Hear the difference. Say exactly what you mean.",
+  "description": "Build precision in English through everyday decisions, conversations, and small surprises. Practice the grammar that changes timing, certainty, emphasis, and perspective.",
+  "level": "B2",
+  "category": "Language focus",
+  "chapters": [
+    {
+      "id": "grammar-01",
+      "title": "Time and Perspective",
+      "description": "Follow routines, recent changes, unfinished efforts, and future plans as time shifts around them.",
+      "sentences": [
+        {
+          "id": "grammar-001",
+          "text": "I've known Maya for years, but we've only worked together since January.",
+          "hint": "A long friendship became a professional connection only recently."
+        },
+        {
+          "id": "grammar-002",
+          "text": "When I reached the station, the last train had already left.",
+          "hint": "I arrived too late to catch the final service."
+        },
+        {
+          "id": "grammar-003",
+          "text": "The cafe usually closes at six, but it's staying open later this week.",
+          "hint": "Opening hours are temporarily different from the normal schedule."
+        },
+        {
+          "id": "grammar-004",
+          "text": "I've been trying to reach you all morning; did you leave your phone at home?",
+          "hint": "Several unsuccessful calls make me wonder where your phone is."
+        },
+        {
+          "id": "grammar-005",
+          "text": "We'd been walking for an hour when we realized we were heading in the wrong direction.",
+          "hint": "A long walk continued before we noticed our navigation mistake."
+        },
+        {
+          "id": "grammar-006",
+          "text": "By the time the guests arrive, we'll have finished setting the table.",
+          "hint": "Dinner preparations should be complete before anyone gets here."
+        },
+        {
+          "id": "grammar-007",
+          "text": "I was going to complain, but the manager offered a refund before I said anything.",
+          "hint": "An unexpected solution made my planned objection unnecessary."
+        },
+        {
+          "id": "grammar-008",
+          "text": "This time tomorrow, I'll be sitting on a train instead of answering emails.",
+          "hint": "I expect to be traveling during tomorrow's usual work hours."
+        },
+        {
+          "id": "grammar-009",
+          "text": "I didn't realize how tired I was until I'd sat down.",
+          "hint": "Resting made me notice how little energy I had."
+        },
+        {
+          "id": "grammar-010",
+          "text": "We're meeting the landlord tomorrow about the leak that's been getting worse.",
+          "hint": "A scheduled discussion will address an increasingly serious maintenance problem."
+        }
+      ]
+    },
+    {
+      "id": "grammar-02",
+      "title": "Certainty, Permission, and Responsibility",
+      "description": "Weigh possibilities, make requests, explain obligations, and look back on choices.",
+      "sentences": [
+        {
+          "id": "grammar-011",
+          "text": "You don't have to stay until the end if you've got an early start tomorrow.",
+          "hint": "Leaving early is acceptable with a busy morning ahead."
+        },
+        {
+          "id": "grammar-012",
+          "text": "You must have been relieved when they finally found your suitcase.",
+          "hint": "I'm almost certain recovering your luggage eased your worry."
+        },
+        {
+          "id": "grammar-013",
+          "text": "We might need another pair of hands if the delivery arrives before lunch.",
+          "hint": "An early shipment could leave us short of help."
+        },
+        {
+          "id": "grammar-014",
+          "text": "I should have checked the address instead of assuming I knew the way.",
+          "hint": "I regret trusting my memory rather than confirming the location."
+        },
+        {
+          "id": "grammar-015",
+          "text": "Visitors must sign in at reception, even if they're only staying for a few minutes.",
+          "hint": "Brief visits still require registration at the front desk."
+        },
+        {
+          "id": "grammar-016",
+          "text": "That can't be Leo at the door; he's still on his flight.",
+          "hint": "His current journey makes his presence here impossible."
+        },
+        {
+          "id": "grammar-017",
+          "text": "Could you keep an eye on my bag while I buy the tickets?",
+          "hint": "I'm politely asking you to watch my belongings briefly."
+        },
+        {
+          "id": "grammar-018",
+          "text": "You needn't have brought any food; the hosts had already arranged everything.",
+          "hint": "Your contribution was unnecessary because the meal was covered."
+        },
+        {
+          "id": "grammar-019",
+          "text": "The council ought to explain why the repairs are taking so long.",
+          "hint": "Residents deserve an account of the delay in maintenance."
+        },
+        {
+          "id": "grammar-020",
+          "text": "We were able to save most of the photos, although the laptop never worked again.",
+          "hint": "We successfully recovered the images despite losing the computer."
+        }
+      ]
+    },
+    {
+      "id": "grammar-03",
+      "title": "Conditions and Consequences",
+      "description": "Connect practical arrangements, imagined alternatives, and past decisions with their consequences.",
+      "sentences": [
+        {
+          "id": "grammar-021",
+          "text": "If you send me the draft tonight, I'll read it before our meeting.",
+          "hint": "Receiving your work this evening will allow an advance review."
+        },
+        {
+          "id": "grammar-022",
+          "text": "If I lived closer to the office, I'd cycle instead of taking the bus.",
+          "hint": "The distance from my home prevents a different commute."
+        },
+        {
+          "id": "grammar-023",
+          "text": "If we'd booked the earlier train, we wouldn't have missed the opening speech.",
+          "hint": "A different travel choice would have prevented our late arrival."
+        },
+        {
+          "id": "grammar-024",
+          "text": "Unless the weather improves, we'll move the picnic into the community hall.",
+          "hint": "The gathering will be indoors if conditions remain poor."
+        },
+        {
+          "id": "grammar-025",
+          "text": "You can borrow my camera as long as you return it before Friday.",
+          "hint": "Permission depends on bringing the equipment back by a deadline."
+        },
+        {
+          "id": "grammar-026",
+          "text": "If I hadn't taken that course, I wouldn't be doing this job now.",
+          "hint": "A past learning decision made my current career possible."
+        },
+        {
+          "id": "grammar-027",
+          "text": "Even if the restaurant is full, we can get something from the market.",
+          "hint": "Unavailable tables won't stop us from finding a meal."
+        },
+        {
+          "id": "grammar-028",
+          "text": "Take a spare key in case the front door locks behind you.",
+          "hint": "Prepare now to avoid being accidentally shut outside."
+        },
+        {
+          "id": "grammar-029",
+          "text": "Had I known the road was closed, I'd have taken the route by the river.",
+          "hint": "Missing information prevented me from choosing a different road."
+        },
+        {
+          "id": "grammar-030",
+          "text": "Provided that everyone agrees, we can postpone the vote until next week.",
+          "hint": "Delaying the decision requires the whole group's approval."
+        }
+      ]
+    },
+    {
+      "id": "grammar-04",
+      "title": "Actions in the Spotlight",
+      "description": "Focus on affected people, ongoing work, official procedures, and completed results.",
+      "sentences": [
+        {
+          "id": "grammar-031",
+          "text": "The road is being resurfaced, so buses are using the next street.",
+          "hint": "Current repairs mean public transport has temporarily been rerouted."
+        },
+        {
+          "id": "grammar-032",
+          "text": "All successful applicants will be invited to a short interview next month.",
+          "hint": "Selected candidates can expect a brief conversation in the coming weeks."
+        },
+        {
+          "id": "grammar-033",
+          "text": "My bike was stolen while I was picking up a parcel.",
+          "hint": "Someone took my bicycle during a brief collection errand."
+        },
+        {
+          "id": "grammar-034",
+          "text": "The results haven't been published yet, despite several requests for an update.",
+          "hint": "Repeated inquiries have not led to the findings becoming available."
+        },
+        {
+          "id": "grammar-035",
+          "text": "By the time we arrived, the damaged windows had already been replaced.",
+          "hint": "The broken glass was dealt with before we got there."
+        },
+        {
+          "id": "grammar-036",
+          "text": "Hot drinks aren't allowed near the computers, even during evening classes.",
+          "hint": "The beverage restriction applies to late lessons too."
+        },
+        {
+          "id": "grammar-037",
+          "text": "The original design was changed after concerns were raised about wheelchair access.",
+          "hint": "Accessibility objections led to revisions in the initial plan."
+        },
+        {
+          "id": "grammar-038",
+          "text": "I was given the wrong room number, which explains why nobody recognized me.",
+          "hint": "Incorrect directions sent me into a gathering of strangers."
+        },
+        {
+          "id": "grammar-039",
+          "text": "This old theater is said to be haunted, although I've never heard anything unusual.",
+          "hint": "Local ghost stories don't match my own experience here."
+        },
+        {
+          "id": "grammar-040",
+          "text": "The final payment must be received before the keys can be handed over.",
+          "hint": "Access to the property depends on settling the remaining balance."
+        }
+      ]
+    },
+    {
+      "id": "grammar-05",
+      "title": "Passing the Message On",
+      "description": "Share conversations, relay questions, and report promises, warnings, and admissions.",
+      "sentences": [
+        {
+          "id": "grammar-041",
+          "text": "Amir said he'd call as soon as he knew whether the offer was genuine.",
+          "hint": "He planned to contact me after checking the proposal's authenticity."
+        },
+        {
+          "id": "grammar-042",
+          "text": "She told me she had never felt so nervous before an interview.",
+          "hint": "She described unusually intense anxiety ahead of a hiring conversation."
+        },
+        {
+          "id": "grammar-043",
+          "text": "The receptionist asked whether we'd made a reservation or were just visiting.",
+          "hint": "The person at the desk wanted to clarify our booking status."
+        },
+        {
+          "id": "grammar-044",
+          "text": "Our coach reminded us not to leave our water bottles on the bus.",
+          "hint": "We were prompted to take our drinks when getting off."
+        },
+        {
+          "id": "grammar-045",
+          "text": "I asked the mechanic how long the repair would take.",
+          "hint": "I wanted an estimate of when the vehicle would be ready."
+        },
+        {
+          "id": "grammar-046",
+          "text": "They warned us that the path could become slippery after rain.",
+          "hint": "We were advised about a possible walking hazard in wet conditions."
+        },
+        {
+          "id": "grammar-047",
+          "text": "Lena admitted that she'd forgotten to attach the document to her email.",
+          "hint": "She acknowledged accidentally sending a message without the required file."
+        },
+        {
+          "id": "grammar-048",
+          "text": "He denied taking the charger, but offered to help us look for it.",
+          "hint": "He rejected responsibility while volunteering to join the search."
+        },
+        {
+          "id": "grammar-049",
+          "text": "The landlord promised to deal with the heating problem before the weekend.",
+          "hint": "The property owner committed to fixing the warmth issue soon."
+        },
+        {
+          "id": "grammar-050",
+          "text": "When I asked why she was leaving, she said she needed a fresh start.",
+          "hint": "Her explanation for departing was a desire to begin again."
+        }
+      ]
+    },
+    {
+      "id": "grammar-06",
+      "title": "Details That Matter",
+      "description": "Identify people and places, add background, and connect events with useful extra detail.",
+      "sentences": [
+        {
+          "id": "grammar-051",
+          "text": "The neighbor who helped me move has just opened a bakery.",
+          "hint": "Someone from nearby who assisted with my relocation now sells bread."
+        },
+        {
+          "id": "grammar-052",
+          "text": "I finally found the receipt that I'd been looking for all afternoon.",
+          "hint": "A lengthy search ended with the missing proof of purchase."
+        },
+        {
+          "id": "grammar-053",
+          "text": "Our new manager, whose office is next to mine, used to work abroad.",
+          "hint": "My nearby colleague in charge has overseas professional experience."
+        },
+        {
+          "id": "grammar-054",
+          "text": "The village where my grandparents met has hardly changed in fifty years.",
+          "hint": "The setting of a family romance remains much as it was."
+        },
+        {
+          "id": "grammar-055",
+          "text": "We stayed until the final song, which turned out to be the best part of the concert.",
+          "hint": "Waiting for the ending rewarded us with the performance's highlight."
+        },
+        {
+          "id": "grammar-056",
+          "text": "Anyone who needs a quieter workspace can use the room upstairs.",
+          "hint": "People seeking fewer distractions have an alternative area available."
+        },
+        {
+          "id": "grammar-057",
+          "text": "The people we rented the flat from were happy to extend our stay.",
+          "hint": "Our accommodation hosts readily agreed to a longer visit."
+        },
+        {
+          "id": "grammar-058",
+          "text": "There's a point at which saving time starts to cost too much money.",
+          "hint": "Beyond a certain limit, convenience becomes unreasonably expensive."
+        },
+        {
+          "id": "grammar-059",
+          "text": "The book you recommended makes a complicated subject surprisingly easy to follow.",
+          "hint": "Your reading suggestion helped me understand something difficult."
+        },
+        {
+          "id": "grammar-060",
+          "text": "I spoke to a woman whose luggage had been sent to a different airport.",
+          "hint": "A fellow traveler described her bags reaching the wrong destination."
+        }
+      ]
+    },
+    {
+      "id": "grammar-07",
+      "title": "Making Fair Comparisons",
+      "description": "Compare experiences, costs, changing situations, and the trade-offs behind everyday decisions.",
+      "sentences": [
+        {
+          "id": "grammar-061",
+          "text": "The new apartment is slightly smaller than our old one, but it gets far more light.",
+          "hint": "We traded a little space for a much brighter home."
+        },
+        {
+          "id": "grammar-062",
+          "text": "This route takes twice as long on foot, though the walk is much more pleasant.",
+          "hint": "The nicer walking option requires double the time."
+        },
+        {
+          "id": "grammar-063",
+          "text": "The longer we waited for an explanation, the less confident we felt.",
+          "hint": "Our trust declined as the unanswered delay continued."
+        },
+        {
+          "id": "grammar-064",
+          "text": "The second proposal isn't nearly as risky as the first one.",
+          "hint": "The later suggestion involves considerably less danger."
+        },
+        {
+          "id": "grammar-065",
+          "text": "Of all the places we visited, the little museum by the harbor surprised me most.",
+          "hint": "A modest waterfront attraction exceeded my expectations more than anywhere else."
+        },
+        {
+          "id": "grammar-066",
+          "text": "It's becoming harder and harder to find a quiet place to study.",
+          "hint": "Locating a peaceful learning spot is increasingly difficult."
+        },
+        {
+          "id": "grammar-067",
+          "text": "I find it less tiring to work four longer days than five shorter ones.",
+          "hint": "A shorter working week leaves me with more energy."
+        },
+        {
+          "id": "grammar-068",
+          "text": "The repairs cost a great deal more than we'd expected.",
+          "hint": "Fixing the damage was much pricier than our estimate."
+        },
+        {
+          "id": "grammar-069",
+          "text": "Her latest talk was just as engaging as the one she gave last year.",
+          "hint": "Both presentations held my attention equally well."
+        },
+        {
+          "id": "grammar-070",
+          "text": "No other candidate had as much practical experience as Daniel.",
+          "hint": "He led the applicant group in hands-on knowledge."
+        }
+      ]
+    },
+    {
+      "id": "grammar-08",
+      "title": "Connecting the Bigger Picture",
+      "description": "Link reasons, results, purposes, and contrasting viewpoints into connected thoughts.",
+      "sentences": [
+        {
+          "id": "grammar-071",
+          "text": "Although the tickets were expensive, we felt the experience was worth it.",
+          "hint": "The high admission price didn't outweigh our enjoyment."
+        },
+        {
+          "id": "grammar-072",
+          "text": "The library has extended its opening hours so that students can study after work.",
+          "hint": "Later access is intended to support learners with daytime jobs."
+        },
+        {
+          "id": "grammar-073",
+          "text": "I'd like to join you; however, I've already promised to help my sister move.",
+          "hint": "A prior family commitment prevents me from accepting your invitation."
+        },
+        {
+          "id": "grammar-074",
+          "text": "The instructions were unclear, which is why several people filled in the wrong section.",
+          "hint": "Confusing guidance caused multiple mistakes on the form."
+        },
+        {
+          "id": "grammar-075",
+          "text": "Despite having no formal training, she built a successful career as a photographer.",
+          "hint": "She achieved professional success without studying the craft officially."
+        },
+        {
+          "id": "grammar-076",
+          "text": "We decided to stay another night because the storm had made the roads unsafe.",
+          "hint": "Dangerous travel conditions persuaded us to delay our departure."
+        },
+        {
+          "id": "grammar-077",
+          "text": "The new system saves time; on the other hand, it takes a while to learn.",
+          "hint": "Greater efficiency comes with an initial learning effort."
+        },
+        {
+          "id": "grammar-078",
+          "text": "The workshop improved my skills and, more importantly, introduced me to people I could work with.",
+          "hint": "Training brought useful knowledge and even more valuable professional connections."
+        },
+        {
+          "id": "grammar-079",
+          "text": "I agreed with his main point, whereas the rest of the group rejected it completely.",
+          "hint": "My support contrasted sharply with everyone else's opposition."
+        },
+        {
+          "id": "grammar-080",
+          "text": "We left early in order to avoid the queues at the entrance.",
+          "hint": "An earlier departure was intended to reduce waiting."
+        }
+      ]
+    },
+    {
+      "id": "grammar-09",
+      "title": "Questions with an Intention",
+      "description": "Ask tactfully, check assumptions, challenge decisions, and seek more precise explanations.",
+      "sentences": [
+        {
+          "id": "grammar-081",
+          "text": "Would you mind telling me why the deadline has been brought forward?",
+          "hint": "I'm politely requesting the reason for an earlier due date."
+        },
+        {
+          "id": "grammar-082",
+          "text": "What would it take to persuade you to stay for another year?",
+          "hint": "Which changes might convince you to remain longer?"
+        },
+        {
+          "id": "grammar-083",
+          "text": "You haven't already sent the invitation, have you?",
+          "hint": "I'm checking my assumption that the invite hasn't gone out."
+        },
+        {
+          "id": "grammar-084",
+          "text": "How come nobody mentioned the extra charge when we made the booking?",
+          "hint": "I'm surprised a further fee wasn't disclosed earlier."
+        },
+        {
+          "id": "grammar-085",
+          "text": "Could you explain how this option differs from the one we discussed yesterday?",
+          "hint": "I want clarification of the distinction between two alternatives."
+        },
+        {
+          "id": "grammar-086",
+          "text": "Who was it that first suggested turning the empty shop into a library?",
+          "hint": "I'm trying to identify the originator of a community idea."
+        },
+        {
+          "id": "grammar-087",
+          "text": "Is there any reason we can't deal with the simpler tasks first?",
+          "hint": "I'm tactfully proposing that we begin with easier work."
+        },
+        {
+          "id": "grammar-088",
+          "text": "Wouldn't it make more sense to ask the team before changing the schedule?",
+          "hint": "I believe consultation should come ahead of timetable adjustments."
+        },
+        {
+          "id": "grammar-089",
+          "text": "Do you happen to know if the last bus stops outside the hospital?",
+          "hint": "I'm gently seeking information about an evening transport connection."
+        },
+        {
+          "id": "grammar-090",
+          "text": "Why should we accept a solution that creates more problems than it solves?",
+          "hint": "I'm challenging the value of an apparently counterproductive proposal."
+        }
+      ]
+    },
+    {
+      "id": "grammar-10",
+      "title": "Imagining Different Choices",
+      "description": "Express preferences, revisit regrets, and picture how life could be different.",
+      "sentences": [
+        {
+          "id": "grammar-091",
+          "text": "I'd rather take a smaller room than share a wall with the elevator.",
+          "hint": "For me, avoiding machinery noise matters more than extra space."
+        },
+        {
+          "id": "grammar-092",
+          "text": "If only we'd left earlier, we could have explored the old town.",
+          "hint": "I regret a late departure that prevented some sightseeing."
+        },
+        {
+          "id": "grammar-093",
+          "text": "I wish I could remember the name of the person who recommended this place.",
+          "hint": "I'm frustrated that I can't recall who suggested coming here."
+        },
+        {
+          "id": "grammar-094",
+          "text": "Suppose your company offered you a year abroad; would you accept?",
+          "hint": "Consider your response to a hypothetical temporary overseas assignment."
+        },
+        {
+          "id": "grammar-095",
+          "text": "It's time we stopped treating every minor delay as an emergency.",
+          "hint": "We should already be reacting more calmly to small setbacks."
+        },
+        {
+          "id": "grammar-096",
+          "text": "Without your advice, I'd probably still be waiting for the perfect opportunity.",
+          "hint": "Your guidance helped me act instead of endlessly putting things off."
+        },
+        {
+          "id": "grammar-097",
+          "text": "I'd have preferred to discuss the problem in person rather than over the phone.",
+          "hint": "Looking back, a face-to-face conversation would have suited me better."
+        },
+        {
+          "id": "grammar-098",
+          "text": "Imagine waking up tomorrow with a whole week free and no appointments to keep.",
+          "hint": "Picture suddenly having several days entirely to yourself."
+        },
+        {
+          "id": "grammar-099",
+          "text": "You talk as if moving abroad would solve every problem.",
+          "hint": "I'm questioning your belief that relocating could fix everything."
+        },
+        {
+          "id": "grammar-100",
+          "text": "If you could change one decision from last year, which would you choose?",
+          "hint": "Consider a single past choice you'd like to make differently."
+        }
+      ]
+    }
+  ]
+}

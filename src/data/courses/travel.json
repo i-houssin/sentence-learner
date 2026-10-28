@@ -1,0 +1,580 @@
+{
+  "id": "travel",
+  "title": "Travel English",
+  "tagline": "Find your words along the way.",
+  "description": "Practice the conversations that help a journey run smoothly. Prepare for airports, local transport, places to stay, meals out, and unexpected changes with practical sentences and polite requests.",
+  "level": "A2",
+  "category": "Real life",
+  "chapters": [
+    {
+      "id": "travel-01",
+      "title": "Before you leave",
+      "description": "Check travel details, pack essentials, and get ready for departure.",
+      "sentences": [
+        {
+          "id": "travel-001",
+          "text": "Our flight leaves early tomorrow morning.",
+          "hint": "Give the timing of an upcoming departure by air."
+        },
+        {
+          "id": "travel-002",
+          "text": "I keep my passport in an inside pocket.",
+          "hint": "Explain where you store an important travel document."
+        },
+        {
+          "id": "travel-003",
+          "text": "We need to check the baggage allowance.",
+          "hint": "Say you must find out how much luggage is permitted."
+        },
+        {
+          "id": "travel-004",
+          "text": "Does this fare include a checked bag?",
+          "hint": "Ask whether the ticket price covers luggage in the hold."
+        },
+        {
+          "id": "travel-005",
+          "text": "I am packing a light jacket for the evenings.",
+          "hint": "Describe taking an extra layer for later in the day."
+        },
+        {
+          "id": "travel-006",
+          "text": "Our hotel booking is for three nights.",
+          "hint": "State the length of your accommodation reservation."
+        },
+        {
+          "id": "travel-007",
+          "text": "Can you send me a copy of the tickets?",
+          "hint": "Ask someone to share your travel documents."
+        },
+        {
+          "id": "travel-008",
+          "text": "I need an adapter for my phone charger.",
+          "hint": "Explain that your charging equipment needs a different plug connection."
+        },
+        {
+          "id": "travel-009",
+          "text": "We are taking the first bus to the airport.",
+          "hint": "Describe using the earliest bus for your departure."
+        },
+        {
+          "id": "travel-010",
+          "text": "Let's check the address before we leave.",
+          "hint": "Suggest confirming the location before setting off."
+        }
+      ]
+    },
+    {
+      "id": "travel-02",
+      "title": "At the airport",
+      "description": "Navigate check-in, security, seat choices, and boarding.",
+      "sentences": [
+        {
+          "id": "travel-011",
+          "text": "Where can I find the check-in desk?",
+          "hint": "Ask where to register for your flight."
+        },
+        {
+          "id": "travel-012",
+          "text": "I'd prefer an aisle seat, please.",
+          "hint": "Request a place beside the walkway on the plane."
+        },
+        {
+          "id": "travel-013",
+          "text": "Do I need to take my laptop out of my bag?",
+          "hint": "Ask whether security requires removing your computer."
+        },
+        {
+          "id": "travel-014",
+          "text": "This suitcase is my only checked bag.",
+          "hint": "Explain that just one piece of luggage goes in the hold."
+        },
+        {
+          "id": "travel-015",
+          "text": "Can I keep this small backpack with me?",
+          "hint": "Ask to carry a little bag into the cabin."
+        },
+        {
+          "id": "travel-016",
+          "text": "The departure board says our gate is twelve.",
+          "hint": "Report the boarding location shown on the airport screen."
+        },
+        {
+          "id": "travel-017",
+          "text": "Our flight is boarding in twenty minutes.",
+          "hint": "Say how soon passengers will start getting on the plane."
+        },
+        {
+          "id": "travel-018",
+          "text": "May I fill my water bottle after security?",
+          "hint": "Ask about getting drinking water beyond the checkpoint."
+        },
+        {
+          "id": "travel-019",
+          "text": "Is this the line for priority boarding?",
+          "hint": "Check whether a queue is for passengers who enter first."
+        },
+        {
+          "id": "travel-020",
+          "text": "Please let me know when my group can board.",
+          "hint": "Ask staff to tell you when it is your turn."
+        }
+      ]
+    },
+    {
+      "id": "travel-03",
+      "title": "On the move",
+      "description": "Buy tickets, understand routes, and ask for help on local transport.",
+      "sentences": [
+        {
+          "id": "travel-021",
+          "text": "Which platform does the city train leave from?",
+          "hint": "Ask where to wait for a train into town."
+        },
+        {
+          "id": "travel-022",
+          "text": "I'd like two single tickets to the central station.",
+          "hint": "Request a pair of one-way fares to the main station."
+        },
+        {
+          "id": "travel-023",
+          "text": "Is there a cheaper ticket for children?",
+          "hint": "Ask about reduced fares for young passengers."
+        },
+        {
+          "id": "travel-024",
+          "text": "Do we need to change trains at the next station?",
+          "hint": "Check whether your route requires a transfer soon."
+        },
+        {
+          "id": "travel-025",
+          "text": "This bus stops outside our hotel.",
+          "hint": "Explain that the route serves your accommodation directly."
+        },
+        {
+          "id": "travel-026",
+          "text": "Could you tell me when we reach the market?",
+          "hint": "Ask someone to point out your destination on arrival."
+        },
+        {
+          "id": "travel-027",
+          "text": "The ticket machine won't accept my coins.",
+          "hint": "Explain that your cash payment is not working."
+        },
+        {
+          "id": "travel-028",
+          "text": "How long does the journey usually take?",
+          "hint": "Ask about the normal travel time."
+        },
+        {
+          "id": "travel-029",
+          "text": "Please stop at the next corner.",
+          "hint": "Tell a driver where you would like to get out."
+        },
+        {
+          "id": "travel-030",
+          "text": "We got on the wrong tram, so we need to go back.",
+          "hint": "Explain a route mistake and the need to return."
+        }
+      ]
+    },
+    {
+      "id": "travel-04",
+      "title": "A place to stay",
+      "description": "Check into a hotel, confirm room details, and request practical help.",
+      "sentences": [
+        {
+          "id": "travel-031",
+          "text": "I have a reservation for two nights.",
+          "hint": "Tell reception the length of your booked stay."
+        },
+        {
+          "id": "travel-032",
+          "text": "Could we check in a little early?",
+          "hint": "Ask to enter your room before the usual arrival time."
+        },
+        {
+          "id": "travel-033",
+          "text": "We booked a room with two separate beds.",
+          "hint": "Explain that your reservation is for twin beds."
+        },
+        {
+          "id": "travel-034",
+          "text": "Is breakfast included in the room price?",
+          "hint": "Check whether the morning meal costs extra."
+        },
+        {
+          "id": "travel-035",
+          "text": "I'd like a quiet room away from the lift.",
+          "hint": "Request accommodation with less noise from the elevator area."
+        },
+        {
+          "id": "travel-036",
+          "text": "What time does the reception desk close?",
+          "hint": "Ask when front-desk staff finish for the day."
+        },
+        {
+          "id": "travel-037",
+          "text": "The key card doesn't seem to work.",
+          "hint": "Report a problem unlocking your room."
+        },
+        {
+          "id": "travel-038",
+          "text": "Could you bring an extra towel to our room?",
+          "hint": "Politely request another item for drying yourself."
+        },
+        {
+          "id": "travel-039",
+          "text": "We can't connect to the hotel's Wi-Fi.",
+          "hint": "Explain that the accommodation's internet is not accessible."
+        },
+        {
+          "id": "travel-040",
+          "text": "We would like to stay one more night.",
+          "hint": "Ask to extend your visit by a day."
+        }
+      ]
+    },
+    {
+      "id": "travel-05",
+      "title": "Finding your way",
+      "description": "Ask for directions, follow landmarks, and check accessible routes.",
+      "sentences": [
+        {
+          "id": "travel-041",
+          "text": "Excuse me, is the art museum within walking distance?",
+          "hint": "Politely ask whether a cultural attraction is close enough on foot."
+        },
+        {
+          "id": "travel-042",
+          "text": "How do I get to the nearest pharmacy?",
+          "hint": "Ask for a route to the closest place selling medicine."
+        },
+        {
+          "id": "travel-043",
+          "text": "Should I turn left at the traffic lights?",
+          "hint": "Check a direction at a road signal."
+        },
+        {
+          "id": "travel-044",
+          "text": "The entrance is opposite the fountain.",
+          "hint": "Locate the way in across from a water feature."
+        },
+        {
+          "id": "travel-045",
+          "text": "Go straight ahead until you reach the bridge.",
+          "hint": "Give directions using a river crossing as the next landmark."
+        },
+        {
+          "id": "travel-046",
+          "text": "You need to cross the street at the next crossing.",
+          "hint": "Direct someone to a nearby pedestrian crossing point."
+        },
+        {
+          "id": "travel-047",
+          "text": "Is there a step-free route to the station?",
+          "hint": "Ask for a way to the trains without stairs."
+        },
+        {
+          "id": "travel-048",
+          "text": "I think we walked past the right street.",
+          "hint": "Say you may have missed your turning."
+        },
+        {
+          "id": "travel-049",
+          "text": "Could you show me where we are on this map?",
+          "hint": "Ask someone to mark your current location."
+        },
+        {
+          "id": "travel-050",
+          "text": "The old town is closer than it looks.",
+          "hint": "Say the historic area is not as far away as it seems."
+        }
+      ]
+    },
+    {
+      "id": "travel-06",
+      "title": "Eating out",
+      "description": "Order a meal, explain food needs, and handle the bill politely.",
+      "sentences": [
+        {
+          "id": "travel-051",
+          "text": "Could we have a table for two near the window?",
+          "hint": "Request seating for a pair beside a view outside."
+        },
+        {
+          "id": "travel-052",
+          "text": "I'd like the vegetable soup to start.",
+          "hint": "Choose soup made with vegetables as your first course."
+        },
+        {
+          "id": "travel-053",
+          "text": "Does the grilled fish come with rice?",
+          "hint": "Check which side dish accompanies a seafood meal."
+        },
+        {
+          "id": "travel-054",
+          "text": "Could you leave the cheese out of my salad?",
+          "hint": "Ask for a dairy ingredient to be omitted."
+        },
+        {
+          "id": "travel-055",
+          "text": "I am allergic to peanuts, so I need to check the ingredients.",
+          "hint": "Explain a food allergy and the need to know what a dish contains."
+        },
+        {
+          "id": "travel-056",
+          "text": "Would you recommend a local dish without meat?",
+          "hint": "Ask for advice about a regional vegetarian option."
+        },
+        {
+          "id": "travel-057",
+          "text": "The food is lovely, but this isn't what I ordered.",
+          "hint": "Politely point out that you received the wrong meal."
+        },
+        {
+          "id": "travel-058",
+          "text": "Could I have some tap water, please?",
+          "hint": "Request drinking water rather than a bottled drink."
+        },
+        {
+          "id": "travel-059",
+          "text": "Can we pay for our meals separately?",
+          "hint": "Ask to split payment between diners."
+        },
+        {
+          "id": "travel-060",
+          "text": "Is the service charge already included in the bill?",
+          "hint": "Check whether a fee for table service is in the total."
+        }
+      ]
+    },
+    {
+      "id": "travel-07",
+      "title": "Out exploring",
+      "description": "Plan visits, ask about tours, and describe things you discovered.",
+      "sentences": [
+        {
+          "id": "travel-061",
+          "text": "What time is the last entry to the castle?",
+          "hint": "Ask how late visitors can enter a historic building."
+        },
+        {
+          "id": "travel-062",
+          "text": "Do we need to book the guided tour in advance?",
+          "hint": "Check whether you must reserve a group visit beforehand."
+        },
+        {
+          "id": "travel-063",
+          "text": "We'd like to visit the museum before it gets busy.",
+          "hint": "Explain a preference for seeing the exhibits without crowds."
+        },
+        {
+          "id": "travel-064",
+          "text": "Is the audio guide available in English?",
+          "hint": "Ask whether a recorded explanation comes in your chosen language."
+        },
+        {
+          "id": "travel-065",
+          "text": "Are visitors allowed to take photos inside?",
+          "hint": "Check whether indoor photography is permitted."
+        },
+        {
+          "id": "travel-066",
+          "text": "How much time should we allow for the walk?",
+          "hint": "Ask how long to set aside for a route on foot."
+        },
+        {
+          "id": "travel-067",
+          "text": "We followed the riverside path and found a quiet garden.",
+          "hint": "Describe discovering a peaceful place beside the water."
+        },
+        {
+          "id": "travel-068",
+          "text": "The entrance ticket is valid for the whole day.",
+          "hint": "Explain that admission covers the entire day."
+        },
+        {
+          "id": "travel-069",
+          "text": "Could you suggest somewhere nearby to sit and rest?",
+          "hint": "Ask for a local place to take a break."
+        },
+        {
+          "id": "travel-070",
+          "text": "The tour was shorter than we expected, but we enjoyed it.",
+          "hint": "Describe a pleasant visit that took less time than anticipated."
+        }
+      ]
+    },
+    {
+      "id": "travel-08",
+      "title": "Shopping and paying",
+      "description": "Choose souvenirs, ask about sizes, and clarify purchases or payments.",
+      "sentences": [
+        {
+          "id": "travel-071",
+          "text": "I'm looking for a small gift that is easy to carry.",
+          "hint": "Ask for help choosing a portable present."
+        },
+        {
+          "id": "travel-072",
+          "text": "Do you have this scarf in a darker color?",
+          "hint": "Ask for the same accessory in a deeper shade."
+        },
+        {
+          "id": "travel-073",
+          "text": "May I try these shoes in a larger size?",
+          "hint": "Request a bigger pair to check the fit."
+        },
+        {
+          "id": "travel-074",
+          "text": "How much does it cost to send this parcel abroad?",
+          "hint": "Ask the price of posting a package to another country."
+        },
+        {
+          "id": "travel-075",
+          "text": "Could you wrap this cup carefully for the journey?",
+          "hint": "Ask for protective packaging around a fragile purchase."
+        },
+        {
+          "id": "travel-076",
+          "text": "I think you charged me for three postcards instead of two.",
+          "hint": "Point out a possible mistake in the number of items billed."
+        },
+        {
+          "id": "travel-077",
+          "text": "Can I return this if it doesn't fit?",
+          "hint": "Check the return policy for an unsuitable size."
+        },
+        {
+          "id": "travel-078",
+          "text": "The cash machine kept my card.",
+          "hint": "Report that an ATM did not return your bank card."
+        },
+        {
+          "id": "travel-079",
+          "text": "Could you write the total down for me?",
+          "hint": "Ask to see the final price in writing."
+        },
+        {
+          "id": "travel-080",
+          "text": "I'd prefer to pay in the local currency.",
+          "hint": "Choose the destination's money rather than a converted amount."
+        }
+      ]
+    },
+    {
+      "id": "travel-09",
+      "title": "When plans change",
+      "description": "Explain lost belongings, travel disruptions, and problems that need assistance.",
+      "sentences": [
+        {
+          "id": "travel-081",
+          "text": "I left my backpack on the bus about an hour ago.",
+          "hint": "Explain when and where you forgot a bag."
+        },
+        {
+          "id": "travel-082",
+          "text": "It is a dark green bag with a yellow handle.",
+          "hint": "Describe the colors of a missing item."
+        },
+        {
+          "id": "travel-083",
+          "text": "Where can I report a lost passport?",
+          "hint": "Ask where to notify someone about a missing travel document."
+        },
+        {
+          "id": "travel-084",
+          "text": "Our train was canceled, and we need another way to get there.",
+          "hint": "Explain that a canceled service means finding different transport."
+        },
+        {
+          "id": "travel-085",
+          "text": "Can I use this ticket on a later service?",
+          "hint": "Check whether your fare is valid for a different departure."
+        },
+        {
+          "id": "travel-086",
+          "text": "The room was noisy last night, so I couldn't sleep.",
+          "hint": "Explain that sounds disturbed your rest at the hotel."
+        },
+        {
+          "id": "travel-087",
+          "text": "Could we move to a different room if one is available?",
+          "hint": "Request an accommodation change if the hotel has space."
+        },
+        {
+          "id": "travel-088",
+          "text": "I have a sore throat and would like to speak to a pharmacist.",
+          "hint": "Describe a symptom and ask for professional advice at a pharmacy."
+        },
+        {
+          "id": "travel-089",
+          "text": "My phone has run out of battery, and I need to contact my hotel.",
+          "hint": "Explain that a dead phone prevents an important call."
+        },
+        {
+          "id": "travel-090",
+          "text": "Could you help me call a taxi to the clinic?",
+          "hint": "Ask for assistance arranging transport to medical care."
+        }
+      ]
+    },
+    {
+      "id": "travel-10",
+      "title": "Heading home",
+      "description": "Coordinate departure, make final requests, and reflect on the journey.",
+      "sentences": [
+        {
+          "id": "travel-091",
+          "text": "Could we settle the hotel bill before breakfast?",
+          "hint": "Ask to finish paying for your stay early in the morning."
+        },
+        {
+          "id": "travel-092",
+          "text": "Please keep our bags here until we return this afternoon.",
+          "hint": "Request luggage storage while you go out for a few hours."
+        },
+        {
+          "id": "travel-093",
+          "text": "Can you arrange a taxi large enough for four people and our luggage?",
+          "hint": "Ask for a vehicle with space for your group and bags."
+        },
+        {
+          "id": "travel-094",
+          "text": "We need to leave earlier because the roads may be busy.",
+          "hint": "Explain that possible traffic means setting off sooner."
+        },
+        {
+          "id": "travel-095",
+          "text": "Could you confirm which terminal our flight leaves from?",
+          "hint": "Ask someone to verify the correct airport building."
+        },
+        {
+          "id": "travel-096",
+          "text": "I'd like to change my seat if there is one by the window.",
+          "hint": "Request a different place on the plane if a window seat is free."
+        },
+        {
+          "id": "travel-097",
+          "text": "Do we have enough time to catch our connecting flight?",
+          "hint": "Check whether you can reach the next plane before departure."
+        },
+        {
+          "id": "travel-098",
+          "text": "Is there anything I need to declare at customs?",
+          "hint": "Ask whether you must officially report any goods you are carrying."
+        },
+        {
+          "id": "travel-099",
+          "text": "The journey took longer than we planned, but we arrived safely.",
+          "hint": "Describe a slow trip that ended without harm."
+        },
+        {
+          "id": "travel-100",
+          "text": "Next time, we are going to stay a little longer.",
+          "hint": "Plan to give a future visit more time."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,580 @@
+{
+  "id": "study",
+  "title": "Study & Campus",
+  "tagline": "Build good habits. Find your voice on campus.",
+  "description": "Practice the English of everyday study, from planning your week to choosing your next course.",
+  "level": "B1",
+  "category": "Academic",
+  "chapters": [
+    {
+      "id": "study-01",
+      "title": "Learning That Lasts",
+      "description": "Build a steady study routine and discover what helps you learn.",
+      "sentences": [
+        {
+          "id": "study-001",
+          "text": "I review my notes for ten minutes before I start new work.",
+          "hint": "Refresh earlier lessons before moving on."
+        },
+        {
+          "id": "study-002",
+          "text": "A short break helps me return to a difficult task with more energy.",
+          "hint": "Rest briefly to improve your focus."
+        },
+        {
+          "id": "study-003",
+          "text": "I keep my phone in my bag when I need to concentrate.",
+          "hint": "Put distractions away during focused work."
+        },
+        {
+          "id": "study-004",
+          "text": "Writing a weekly plan makes large goals feel easier to manage.",
+          "hint": "Divide your goals across the week."
+        },
+        {
+          "id": "study-005",
+          "text": "I understand new words better when I use them in my own examples.",
+          "hint": "Create personal examples to learn vocabulary."
+        },
+        {
+          "id": "study-006",
+          "text": "If I miss a study session, I make time for it the next day.",
+          "hint": "Reschedule practice instead of giving up."
+        },
+        {
+          "id": "study-007",
+          "text": "I explain the main idea aloud to check that I understand it.",
+          "hint": "Test your understanding by speaking."
+        },
+        {
+          "id": "study-008",
+          "text": "Studying with a clear question helps me decide what to read first.",
+          "hint": "Let a specific question guide your reading."
+        },
+        {
+          "id": "study-009",
+          "text": "I learn more from a mistake when I work out why it happened.",
+          "hint": "Understand errors so you can improve."
+        },
+        {
+          "id": "study-010",
+          "text": "At the end of the week, I notice which habits helped me most.",
+          "hint": "Reflect on your most useful routines."
+        }
+      ]
+    },
+    {
+      "id": "study-02",
+      "title": "Joining the Discussion",
+      "description": "Ask clear questions, respond to classmates, and take part with confidence.",
+      "sentences": [
+        {
+          "id": "study-011",
+          "text": "Could you explain the last point with a simpler example?",
+          "hint": "Ask for an easier illustration."
+        },
+        {
+          "id": "study-012",
+          "text": "I agree with your answer, but I reached it in a different way.",
+          "hint": "Support a conclusion while comparing methods."
+        },
+        {
+          "id": "study-013",
+          "text": "We have not heard from everyone in the group yet.",
+          "hint": "Notice whose views are still missing."
+        },
+        {
+          "id": "study-014",
+          "text": "I would like a moment to think before I answer.",
+          "hint": "Request some time to consider your response."
+        },
+        {
+          "id": "study-015",
+          "text": "The question on the board is different from the one in our books.",
+          "hint": "Point out two versions of a task."
+        },
+        {
+          "id": "study-016",
+          "text": "Your example helped me see a connection between the two topics.",
+          "hint": "Recognize how an illustration links ideas."
+        },
+        {
+          "id": "study-017",
+          "text": "I am not sure that this rule works in every situation.",
+          "hint": "Question whether a rule always applies."
+        },
+        {
+          "id": "study-018",
+          "text": "Shall we compare our ideas before the teacher gives us feedback?",
+          "hint": "Suggest discussing answers before receiving comments."
+        },
+        {
+          "id": "study-019",
+          "text": "I missed part of the explanation because I was still taking notes.",
+          "hint": "Describe losing track while writing things down."
+        },
+        {
+          "id": "study-020",
+          "text": "Before we move on, can I check that I understood you correctly?",
+          "hint": "Confirm the meaning before changing topics."
+        }
+      ]
+    },
+    {
+      "id": "study-03",
+      "title": "Finding Your Way in the Library",
+      "description": "Locate useful materials, borrow books, and choose the right study space.",
+      "sentences": [
+        {
+          "id": "study-021",
+          "text": "The book I need is on loan, so I have reserved a copy.",
+          "hint": "Join the waiting list for borrowed material."
+        },
+        {
+          "id": "study-022",
+          "text": "Is there a quiet room where I can prepare for my test?",
+          "hint": "Ask about a peaceful place to study."
+        },
+        {
+          "id": "study-023",
+          "text": "The library website shows which books are available today.",
+          "hint": "Check online before looking on the shelves."
+        },
+        {
+          "id": "study-024",
+          "text": "I found a useful chapter in a book I had not planned to borrow.",
+          "hint": "Discover helpful reading by chance."
+        },
+        {
+          "id": "study-025",
+          "text": "You can renew this book online unless someone else has requested it.",
+          "hint": "Extend a loan if nobody is waiting."
+        },
+        {
+          "id": "study-026",
+          "text": "I save the article title so I can find it again later.",
+          "hint": "Keep enough details to return to a source."
+        },
+        {
+          "id": "study-027",
+          "text": "The librarian showed me how to search for a more specific topic.",
+          "hint": "Get help narrowing a search."
+        },
+        {
+          "id": "study-028",
+          "text": "We should move to the group area if we want to talk.",
+          "hint": "Choose a suitable space for conversation."
+        },
+        {
+          "id": "study-029",
+          "text": "I would rather read the introduction before printing the whole article.",
+          "hint": "Check relevance before making a paper copy."
+        },
+        {
+          "id": "study-030",
+          "text": "I returned the books early because I had finished using them.",
+          "hint": "Bring borrowed items back before the deadline."
+        }
+      ]
+    },
+    {
+      "id": "study-04",
+      "title": "From Instructions to Submission",
+      "description": "Understand an assignment, shape a draft, and finish with care.",
+      "sentences": [
+        {
+          "id": "study-031",
+          "text": "I read the instructions twice before choosing a topic for my essay.",
+          "hint": "Understand the task before selecting a subject."
+        },
+        {
+          "id": "study-032",
+          "text": "Does the word limit include the list of books at the end?",
+          "hint": "Check which sections count toward the length."
+        },
+        {
+          "id": "study-033",
+          "text": "My first draft has good ideas, but the order is not clear yet.",
+          "hint": "Improve the structure of an early version."
+        },
+        {
+          "id": "study-034",
+          "text": "I use the teacher's comments to decide what to change.",
+          "hint": "Let feedback guide your revisions."
+        },
+        {
+          "id": "study-035",
+          "text": "This paragraph needs an example to support its main point.",
+          "hint": "Add evidence to make an idea stronger."
+        },
+        {
+          "id": "study-036",
+          "text": "I have saved a second copy in case my computer stops working.",
+          "hint": "Protect your work against a technical problem."
+        },
+        {
+          "id": "study-037",
+          "text": "Could I have an extra day to finish the assignment?",
+          "hint": "Politely request a short deadline extension."
+        },
+        {
+          "id": "study-038",
+          "text": "I check that every page has a number before I submit my work.",
+          "hint": "Review the page details before handing it in."
+        },
+        {
+          "id": "study-039",
+          "text": "It is better to explain one idea well than to include too many.",
+          "hint": "Choose depth instead of overcrowding your writing."
+        },
+        {
+          "id": "study-040",
+          "text": "I handed in my report on time, even though the final part was difficult.",
+          "hint": "Meet a deadline despite a challenging ending."
+        }
+      ]
+    },
+    {
+      "id": "study-05",
+      "title": "Working Well Together",
+      "description": "Share responsibilities, solve small problems, and improve a group project.",
+      "sentences": [
+        {
+          "id": "study-041",
+          "text": "Let's agree on the main goal before we divide the work.",
+          "hint": "Establish a shared purpose before assigning tasks."
+        },
+        {
+          "id": "study-042",
+          "text": "I can collect the examples if you write the introduction.",
+          "hint": "Offer a fair division of responsibilities."
+        },
+        {
+          "id": "study-043",
+          "text": "We need to choose a meeting time that suits everyone.",
+          "hint": "Arrange a discussion around shared availability."
+        },
+        {
+          "id": "study-044",
+          "text": "Our shared document makes it easier to see what still needs doing.",
+          "hint": "Use a common file to track unfinished tasks."
+        },
+        {
+          "id": "study-045",
+          "text": "I think we are repeating the same point in two different sections.",
+          "hint": "Notice an overlap in the group draft."
+        },
+        {
+          "id": "study-046",
+          "text": "Could you let us know early if your part is taking longer than expected?",
+          "hint": "Ask for advance warning of possible delays."
+        },
+        {
+          "id": "study-047",
+          "text": "We changed the plan after one member suggested a better approach.",
+          "hint": "Adapt the project when a useful idea appears."
+        },
+        {
+          "id": "study-048",
+          "text": "Everyone should have a chance to explain their ideas.",
+          "hint": "Give each member space to contribute."
+        },
+        {
+          "id": "study-049",
+          "text": "I will check the final version, but someone else should check my section.",
+          "hint": "Share responsibility for reviewing the work."
+        },
+        {
+          "id": "study-050",
+          "text": "We finished more quickly once we started asking each other for help.",
+          "hint": "Improve progress through mutual support."
+        }
+      ]
+    },
+    {
+      "id": "study-06",
+      "title": "Preparing for Exams",
+      "description": "Plan your review, manage the test, and learn from the result.",
+      "sentences": [
+        {
+          "id": "study-051",
+          "text": "I am making a review plan that leaves time for every subject.",
+          "hint": "Give all your subjects a place in the schedule."
+        },
+        {
+          "id": "study-052",
+          "text": "Practice questions help me find the topics I need to review.",
+          "hint": "Use sample tasks to identify weaker areas."
+        },
+        {
+          "id": "study-053",
+          "text": "I set a timer so I can practice finishing within the time limit.",
+          "hint": "Rehearse working at the required pace."
+        },
+        {
+          "id": "study-054",
+          "text": "Will we be allowed to use a dictionary during the exam?",
+          "hint": "Check which reference tools are permitted."
+        },
+        {
+          "id": "study-055",
+          "text": "I sleep better when I stop studying an hour before bed.",
+          "hint": "Leave time to relax before sleeping."
+        },
+        {
+          "id": "study-056",
+          "text": "Please read all the instructions before you begin writing your answers.",
+          "hint": "Understand the full task before starting."
+        },
+        {
+          "id": "study-057",
+          "text": "If I get stuck on a question, I leave it and come back later.",
+          "hint": "Return to difficult items after making progress elsewhere."
+        },
+        {
+          "id": "study-058",
+          "text": "I check how many points a question is worth before deciding how much to write.",
+          "hint": "Match the detail of an answer to its value."
+        },
+        {
+          "id": "study-059",
+          "text": "I had time to correct a few small mistakes at the end.",
+          "hint": "Use remaining minutes to improve your answers."
+        },
+        {
+          "id": "study-060",
+          "text": "My result was lower than I expected, so I asked for advice.",
+          "hint": "Seek guidance after a disappointing score."
+        }
+      ]
+    },
+    {
+      "id": "study-07",
+      "title": "Exploring a Research Question",
+      "description": "Find reliable information, compare evidence, and acknowledge other writers.",
+      "sentences": [
+        {
+          "id": "study-061",
+          "text": "I want to find out why some students prefer studying in the evening.",
+          "hint": "Explore the reasons behind a learning preference."
+        },
+        {
+          "id": "study-062",
+          "text": "Our teacher asked us to turn a broad topic into one clear question.",
+          "hint": "Narrow a general subject into a focused task."
+        },
+        {
+          "id": "study-063",
+          "text": "I compare several sources instead of trusting the first answer I find.",
+          "hint": "Check information against more than one account."
+        },
+        {
+          "id": "study-064",
+          "text": "The date of an article can help me decide whether it is still useful.",
+          "hint": "Consider how current a source is."
+        },
+        {
+          "id": "study-065",
+          "text": "We asked the same questions so we could compare the answers fairly.",
+          "hint": "Keep a survey consistent across participants."
+        },
+        {
+          "id": "study-066",
+          "text": "I wrote down where each fact came from while I was reading.",
+          "hint": "Record source details as you gather information."
+        },
+        {
+          "id": "study-067",
+          "text": "This example is interesting, but it does not answer our research question.",
+          "hint": "Separate appealing details from relevant evidence."
+        },
+        {
+          "id": "study-068",
+          "text": "We collected fewer responses than we had hoped for.",
+          "hint": "Describe a smaller survey return than expected."
+        },
+        {
+          "id": "study-069",
+          "text": "Our results suggest a pattern, but we need more information to be sure.",
+          "hint": "Present a possible finding without claiming certainty."
+        },
+        {
+          "id": "study-070",
+          "text": "I give credit to other writers whenever I use their ideas.",
+          "hint": "Acknowledge the people behind borrowed ideas."
+        }
+      ]
+    },
+    {
+      "id": "study-08",
+      "title": "Presenting Your Ideas",
+      "description": "Guide an audience through your message and respond to questions.",
+      "sentences": [
+        {
+          "id": "study-071",
+          "text": "My opening question is meant to get the audience interested.",
+          "hint": "Begin by giving listeners a reason to care."
+        },
+        {
+          "id": "study-072",
+          "text": "I will explain the main point before showing the details.",
+          "hint": "Start with the central message."
+        },
+        {
+          "id": "study-073",
+          "text": "This picture makes the process easier to understand.",
+          "hint": "Use a visual to clarify how something works."
+        },
+        {
+          "id": "study-074",
+          "text": "I try to look at the audience instead of reading every word.",
+          "hint": "Connect with listeners rather than relying on a script."
+        },
+        {
+          "id": "study-075",
+          "text": "Could someone at the back tell me if my voice is loud enough?",
+          "hint": "Check whether distant listeners can hear."
+        },
+        {
+          "id": "study-076",
+          "text": "A short pause gives people time to think about an important idea.",
+          "hint": "Let a key message settle before continuing."
+        },
+        {
+          "id": "study-077",
+          "text": "We practiced together to make sure our talk was not too long.",
+          "hint": "Rehearse as a group to check the length."
+        },
+        {
+          "id": "study-078",
+          "text": "I do not know the answer, but I can find out after the presentation.",
+          "hint": "Admit uncertainty and offer to follow up."
+        },
+        {
+          "id": "study-079",
+          "text": "To sum up, our project shows that small changes can make studying easier.",
+          "hint": "Close by highlighting the main finding."
+        },
+        {
+          "id": "study-080",
+          "text": "The feedback helped me see where my explanation needed to be clearer.",
+          "hint": "Use audience comments to improve your message."
+        }
+      ]
+    },
+    {
+      "id": "study-09",
+      "title": "Making Campus Feel Like Home",
+      "description": "Share spaces, manage daily needs, and find your community.",
+      "sentences": [
+        {
+          "id": "study-081",
+          "text": "I chose a room near the kitchen because I enjoy cooking with other students.",
+          "hint": "Choose accommodation that supports a shared interest."
+        },
+        {
+          "id": "study-082",
+          "text": "Could we keep the noise down after ten on weeknights?",
+          "hint": "Politely agree on quieter evenings."
+        },
+        {
+          "id": "study-083",
+          "text": "The student center has a notice board with clubs and local events.",
+          "hint": "Find opportunities to get involved nearby."
+        },
+        {
+          "id": "study-084",
+          "text": "I am trying to spend less on lunch by bringing food from home.",
+          "hint": "Reduce daily costs with prepared meals."
+        },
+        {
+          "id": "study-085",
+          "text": "We take turns cleaning the shared bathroom each week.",
+          "hint": "Rotate responsibility for a common space."
+        },
+        {
+          "id": "study-086",
+          "text": "I got lost on my first day, but another student walked with me to class.",
+          "hint": "Receive friendly help finding your way."
+        },
+        {
+          "id": "study-087",
+          "text": "If you feel unwell, you can make an appointment at the campus clinic.",
+          "hint": "Arrange medical help close to your classes."
+        },
+        {
+          "id": "study-088",
+          "text": "Joining a club helped me meet people outside my course.",
+          "hint": "Expand your social circle through an activity."
+        },
+        {
+          "id": "study-089",
+          "text": "I need to report the broken heater before the weather gets colder.",
+          "hint": "Request a repair before it becomes urgent."
+        },
+        {
+          "id": "study-090",
+          "text": "Having one evening without study helps me feel ready for the rest of the week.",
+          "hint": "Protect some free time to recharge."
+        }
+      ]
+    },
+    {
+      "id": "study-10",
+      "title": "Choosing Your Next Step",
+      "description": "Compare study options, explore your interests, and plan with flexibility.",
+      "sentences": [
+        {
+          "id": "study-091",
+          "text": "I am thinking about taking a course that combines science and art.",
+          "hint": "Consider a program linking two interests."
+        },
+        {
+          "id": "study-092",
+          "text": "Which skills will I need before I apply for this program?",
+          "hint": "Ask about the abilities required for entry."
+        },
+        {
+          "id": "study-093",
+          "text": "The course sounds interesting, although I have not studied the subject before.",
+          "hint": "Consider trying an unfamiliar field."
+        },
+        {
+          "id": "study-094",
+          "text": "I would like to talk to a current student before making my decision.",
+          "hint": "Learn from someone already taking the course."
+        },
+        {
+          "id": "study-095",
+          "text": "A summer job could help me learn whether this kind of work suits me.",
+          "hint": "Explore a career through practical experience."
+        },
+        {
+          "id": "study-096",
+          "text": "I need to compare the course fees with the cost of living nearby.",
+          "hint": "Include everyday expenses when planning your budget."
+        },
+        {
+          "id": "study-097",
+          "text": "My teacher suggested keeping a folder of work that I am proud of.",
+          "hint": "Collect strong examples of your achievements."
+        },
+        {
+          "id": "study-098",
+          "text": "If I study abroad, I will need time to get used to a different system.",
+          "hint": "Expect an adjustment period in another country."
+        },
+        {
+          "id": "study-099",
+          "text": "I may change my plans as I discover what I enjoy most.",
+          "hint": "Allow new interests to shape future choices."
+        },
+        {
+          "id": "study-100",
+          "text": "My next goal is to become more confident working without detailed instructions.",
+          "hint": "Aim for greater independence in your learning."
+        }
+      ]
+    }
+  ]
+}

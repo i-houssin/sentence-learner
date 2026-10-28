@@ -1,0 +1,580 @@
+{
+  "id": "everyday",
+  "title": "Everyday English",
+  "tagline": "Small sentences. Everyday confidence.",
+  "description": "Find your voice in familiar moments, from meeting a neighbor to making weekend plans. Build a foundation with useful questions, friendly requests, and clear sentences about daily life.",
+  "level": "A1",
+  "category": "Foundations",
+  "chapters": [
+    {
+      "id": "everyday-01",
+      "title": "A friendly start",
+      "description": "Introduce yourself, welcome someone, and ask simple questions.",
+      "sentences": [
+        {
+          "id": "everyday-001",
+          "text": "Hello, I am new here.",
+          "hint": "Greet someone as a newcomer."
+        },
+        {
+          "id": "everyday-002",
+          "text": "I am your new neighbor.",
+          "hint": "Explain that you recently moved nearby."
+        },
+        {
+          "id": "everyday-003",
+          "text": "It is nice to meet you.",
+          "hint": "Show pleasure at a first introduction."
+        },
+        {
+          "id": "everyday-004",
+          "text": "What is your name?",
+          "hint": "Ask what to call someone."
+        },
+        {
+          "id": "everyday-005",
+          "text": "Are you from this town?",
+          "hint": "Ask whether someone comes from the local area."
+        },
+        {
+          "id": "everyday-006",
+          "text": "This is my friend.",
+          "hint": "Introduce a person you know well."
+        },
+        {
+          "id": "everyday-007",
+          "text": "Please sit next to me.",
+          "hint": "Invite someone to take the seat beside you."
+        },
+        {
+          "id": "everyday-008",
+          "text": "Do you want some water?",
+          "hint": "Offer someone a simple drink."
+        },
+        {
+          "id": "everyday-009",
+          "text": "You are in the right place.",
+          "hint": "Reassure someone that they found the correct location."
+        },
+        {
+          "id": "everyday-010",
+          "text": "I am happy to be here.",
+          "hint": "Say you feel good about being present."
+        }
+      ]
+    },
+    {
+      "id": "everyday-02",
+      "title": "A good morning",
+      "description": "Describe waking up, getting dressed, and leaving home.",
+      "sentences": [
+        {
+          "id": "everyday-011",
+          "text": "I get up at seven o'clock.",
+          "hint": "Give the time you leave your bed."
+        },
+        {
+          "id": "everyday-012",
+          "text": "My alarm is very loud.",
+          "hint": "Describe a strong wake-up sound."
+        },
+        {
+          "id": "everyday-013",
+          "text": "I open the curtains.",
+          "hint": "Let daylight in through the window."
+        },
+        {
+          "id": "everyday-014",
+          "text": "The bathroom is across the hall.",
+          "hint": "Explain where to find the washroom."
+        },
+        {
+          "id": "everyday-015",
+          "text": "I brush my teeth before breakfast.",
+          "hint": "Describe cleaning your teeth before the morning meal."
+        },
+        {
+          "id": "everyday-016",
+          "text": "These socks are clean.",
+          "hint": "Say this pair is ready to wear."
+        },
+        {
+          "id": "everyday-017",
+          "text": "Where is my blue shirt?",
+          "hint": "Ask for help finding a piece of clothing."
+        },
+        {
+          "id": "everyday-018",
+          "text": "I don't drink coffee in the morning.",
+          "hint": "Explain which drink is not part of your routine."
+        },
+        {
+          "id": "everyday-019",
+          "text": "My bag is ready by the door.",
+          "hint": "Say your packed things are near the exit."
+        },
+        {
+          "id": "everyday-020",
+          "text": "We leave the house together.",
+          "hint": "Describe going out at the same time."
+        }
+      ]
+    },
+    {
+      "id": "everyday-03",
+      "title": "At the table",
+      "description": "Talk about food, express preferences, and ask for what you need.",
+      "sentences": [
+        {
+          "id": "everyday-021",
+          "text": "I am hungry.",
+          "hint": "Say you need something to eat."
+        },
+        {
+          "id": "everyday-022",
+          "text": "There is some bread on the table.",
+          "hint": "Point out food available on the dining surface."
+        },
+        {
+          "id": "everyday-023",
+          "text": "We have eggs for breakfast.",
+          "hint": "Describe a food in your morning meal."
+        },
+        {
+          "id": "everyday-024",
+          "text": "Do you like fresh tomatoes?",
+          "hint": "Ask about someone's taste in vegetables."
+        },
+        {
+          "id": "everyday-025",
+          "text": "My soup is too hot.",
+          "hint": "Say your bowl needs time to cool."
+        },
+        {
+          "id": "everyday-026",
+          "text": "I would like a glass of milk.",
+          "hint": "Politely ask for a dairy drink."
+        },
+        {
+          "id": "everyday-027",
+          "text": "Please pass the rice.",
+          "hint": "Ask someone to move a dish toward you."
+        },
+        {
+          "id": "everyday-028",
+          "text": "There isn't any cheese in the fridge.",
+          "hint": "Explain that a chilled dairy food has run out."
+        },
+        {
+          "id": "everyday-029",
+          "text": "How many apples do we need?",
+          "hint": "Ask for the number of fruits required."
+        },
+        {
+          "id": "everyday-030",
+          "text": "This meal tastes good.",
+          "hint": "Say you enjoy the flavor of the food."
+        }
+      ]
+    },
+    {
+      "id": "everyday-04",
+      "title": "A place called home",
+      "description": "Describe rooms, locate belongings, and make simple household requests.",
+      "sentences": [
+        {
+          "id": "everyday-031",
+          "text": "Our home has two bedrooms.",
+          "hint": "Give the number of sleeping rooms where you live."
+        },
+        {
+          "id": "everyday-032",
+          "text": "The keys are on the kitchen shelf.",
+          "hint": "Explain where to find the items that unlock doors."
+        },
+        {
+          "id": "everyday-033",
+          "text": "There is a lamp beside the sofa.",
+          "hint": "Locate a light next to the couch."
+        },
+        {
+          "id": "everyday-034",
+          "text": "The window is open.",
+          "hint": "Say that air can come in from outside."
+        },
+        {
+          "id": "everyday-035",
+          "text": "Can you close the door, please?",
+          "hint": "Politely ask someone to shut the entrance."
+        },
+        {
+          "id": "everyday-036",
+          "text": "My room is small but bright.",
+          "hint": "Describe a little space with plenty of light."
+        },
+        {
+          "id": "everyday-037",
+          "text": "We keep our shoes under the stairs.",
+          "hint": "Explain the usual storage place for footwear."
+        },
+        {
+          "id": "everyday-038",
+          "text": "I clean the floor on Saturdays.",
+          "hint": "Describe a weekly household chore."
+        },
+        {
+          "id": "everyday-039",
+          "text": "The washing machine is in the kitchen.",
+          "hint": "Locate the appliance used for laundry."
+        },
+        {
+          "id": "everyday-040",
+          "text": "Please turn off the light.",
+          "hint": "Ask someone to stop the lamp from shining."
+        }
+      ]
+    },
+    {
+      "id": "everyday-05",
+      "title": "Around the neighborhood",
+      "description": "Find local places, buy everyday items, and ask about payment.",
+      "sentences": [
+        {
+          "id": "everyday-041",
+          "text": "The bakery is near the park.",
+          "hint": "Locate the bread shop beside a green space."
+        },
+        {
+          "id": "everyday-042",
+          "text": "I need a loaf of bread.",
+          "hint": "Name a basic item on your shopping list."
+        },
+        {
+          "id": "everyday-043",
+          "text": "How much is this notebook?",
+          "hint": "Ask the price of something to write in."
+        },
+        {
+          "id": "everyday-044",
+          "text": "The post office opens at nine.",
+          "hint": "Give the starting time for postal services."
+        },
+        {
+          "id": "everyday-045",
+          "text": "Can I pay by card?",
+          "hint": "Ask whether cash is necessary."
+        },
+        {
+          "id": "everyday-046",
+          "text": "I am looking for the bus stop.",
+          "hint": "Explain that you need the place to catch a bus."
+        },
+        {
+          "id": "everyday-047",
+          "text": "This bag is too heavy.",
+          "hint": "Say something is difficult to carry because of its weight."
+        },
+        {
+          "id": "everyday-048",
+          "text": "The shop is closed on Sundays.",
+          "hint": "Explain which day the store does not serve customers."
+        },
+        {
+          "id": "everyday-049",
+          "text": "Please give me a receipt.",
+          "hint": "Ask for written proof of your purchase."
+        },
+        {
+          "id": "everyday-050",
+          "text": "I can walk home from here.",
+          "hint": "Say you can return on foot."
+        }
+      ]
+    },
+    {
+      "id": "everyday-06",
+      "title": "Finding the time",
+      "description": "Use clock times, days, and frequency to organize daily life.",
+      "sentences": [
+        {
+          "id": "everyday-051",
+          "text": "What time is it now?",
+          "hint": "Ask someone to check the clock."
+        },
+        {
+          "id": "everyday-052",
+          "text": "My class starts at half past ten.",
+          "hint": "Say your lesson begins at ten thirty."
+        },
+        {
+          "id": "everyday-053",
+          "text": "We have lunch at noon.",
+          "hint": "Give midday as the time for your meal."
+        },
+        {
+          "id": "everyday-054",
+          "text": "I am usually early.",
+          "hint": "Say you tend to arrive before the expected time."
+        },
+        {
+          "id": "everyday-055",
+          "text": "The bus comes every twenty minutes.",
+          "hint": "Describe the regular gap between bus arrivals."
+        },
+        {
+          "id": "everyday-056",
+          "text": "Is the library open this afternoon?",
+          "hint": "Check whether you can visit the book-lending place later today."
+        },
+        {
+          "id": "everyday-057",
+          "text": "My appointment is on Tuesday.",
+          "hint": "Name the day of a scheduled meeting."
+        },
+        {
+          "id": "everyday-058",
+          "text": "We don't work on weekends.",
+          "hint": "Explain that Saturday and Sunday are days off."
+        },
+        {
+          "id": "everyday-059",
+          "text": "I have five minutes before the next bus.",
+          "hint": "Say there is only a short wait for your ride."
+        },
+        {
+          "id": "everyday-060",
+          "text": "Let's meet outside at six.",
+          "hint": "Suggest a time and an outdoor meeting place."
+        }
+      ]
+    },
+    {
+      "id": "everyday-07",
+      "title": "Feeling well",
+      "description": "Describe common symptoms, ask for help, and talk about healthy routines.",
+      "sentences": [
+        {
+          "id": "everyday-061",
+          "text": "I don't feel well today.",
+          "hint": "Say that you are not feeling healthy."
+        },
+        {
+          "id": "everyday-062",
+          "text": "My throat hurts.",
+          "hint": "Describe pain in the part you use to swallow."
+        },
+        {
+          "id": "everyday-063",
+          "text": "Do you have a headache?",
+          "hint": "Ask whether someone has pain in their head."
+        },
+        {
+          "id": "everyday-064",
+          "text": "I need to sit down.",
+          "hint": "Say you must stop standing for a moment."
+        },
+        {
+          "id": "everyday-065",
+          "text": "Please drink some water.",
+          "hint": "Encourage someone to have a simple drink."
+        },
+        {
+          "id": "everyday-066",
+          "text": "The doctor is free this morning.",
+          "hint": "Say a medical professional has time to see someone today."
+        },
+        {
+          "id": "everyday-067",
+          "text": "I take a short walk every day.",
+          "hint": "Describe a little daily exercise on foot."
+        },
+        {
+          "id": "everyday-068",
+          "text": "You look tired.",
+          "hint": "Notice that someone seems to need rest."
+        },
+        {
+          "id": "everyday-069",
+          "text": "I go to bed early when I am ill.",
+          "hint": "Describe getting extra rest during sickness."
+        },
+        {
+          "id": "everyday-070",
+          "text": "I feel better after a good night's sleep.",
+          "hint": "Explain that sleeping well helps you recover."
+        }
+      ]
+    },
+    {
+      "id": "everyday-08",
+      "title": "Family and friends",
+      "description": "Talk about relationships, shared activities, and what people are doing now.",
+      "sentences": [
+        {
+          "id": "everyday-071",
+          "text": "My sister lives near us.",
+          "hint": "Say a female sibling has a home close by."
+        },
+        {
+          "id": "everyday-072",
+          "text": "Our grandparents have a small garden.",
+          "hint": "Describe an outdoor space belonging to older relatives."
+        },
+        {
+          "id": "everyday-073",
+          "text": "Who is the person in this photo?",
+          "hint": "Ask someone to identify a face in a picture."
+        },
+        {
+          "id": "everyday-074",
+          "text": "That is my brother's bicycle.",
+          "hint": "Explain which relative owns the bike."
+        },
+        {
+          "id": "everyday-075",
+          "text": "My parents are cooking dinner.",
+          "hint": "Say your mother and father are preparing the evening meal."
+        },
+        {
+          "id": "everyday-076",
+          "text": "The children are playing in the yard.",
+          "hint": "Describe young people having fun outside the house."
+        },
+        {
+          "id": "everyday-077",
+          "text": "I call my cousin every week.",
+          "hint": "Describe a regular phone conversation with a relative."
+        },
+        {
+          "id": "everyday-078",
+          "text": "We often help each other.",
+          "hint": "Say you regularly give and receive support."
+        },
+        {
+          "id": "everyday-079",
+          "text": "Can your friend join us for lunch?",
+          "hint": "Ask whether another person can share your midday meal."
+        },
+        {
+          "id": "everyday-080",
+          "text": "I like spending time with my family.",
+          "hint": "Say you enjoy being with your relatives."
+        }
+      ]
+    },
+    {
+      "id": "everyday-09",
+      "title": "Whatever the weather",
+      "description": "Describe the sky, choose clothes, and compare everyday weather conditions.",
+      "sentences": [
+        {
+          "id": "everyday-081",
+          "text": "It is cold outside today.",
+          "hint": "Describe a low outdoor temperature."
+        },
+        {
+          "id": "everyday-082",
+          "text": "The sky is clear this morning.",
+          "hint": "Say there are no clouds at the start of the day."
+        },
+        {
+          "id": "everyday-083",
+          "text": "Is it raining now?",
+          "hint": "Ask whether water is falling from the sky."
+        },
+        {
+          "id": "everyday-084",
+          "text": "You need a warm coat.",
+          "hint": "Recommend clothing that protects against the cold."
+        },
+        {
+          "id": "everyday-085",
+          "text": "I can't find my umbrella.",
+          "hint": "Say your protection from the rain is missing."
+        },
+        {
+          "id": "everyday-086",
+          "text": "We stay inside on very hot days.",
+          "hint": "Describe avoiding the outdoors in strong heat."
+        },
+        {
+          "id": "everyday-087",
+          "text": "The wind is strong near the river.",
+          "hint": "Describe air blowing hard beside the water."
+        },
+        {
+          "id": "everyday-088",
+          "text": "It is warmer in the kitchen than in the hall.",
+          "hint": "Compare the temperatures in two parts of the house."
+        },
+        {
+          "id": "everyday-089",
+          "text": "There is snow on the roof.",
+          "hint": "Describe a white winter covering on top of a building."
+        },
+        {
+          "id": "everyday-090",
+          "text": "It is sunny, but the air is still cold.",
+          "hint": "Explain that bright weather does not always mean warmth."
+        }
+      ]
+    },
+    {
+      "id": "everyday-10",
+      "title": "Small plans",
+      "description": "Suggest activities, arrange a meeting, and explain simple future plans.",
+      "sentences": [
+        {
+          "id": "everyday-091",
+          "text": "I am going to visit a friend tomorrow.",
+          "hint": "Describe a social plan for the next day."
+        },
+        {
+          "id": "everyday-092",
+          "text": "We want to have a picnic on Sunday.",
+          "hint": "Suggest an outdoor meal at the end of the week."
+        },
+        {
+          "id": "everyday-093",
+          "text": "Are you free after work?",
+          "hint": "Check whether someone has time when their job finishes."
+        },
+        {
+          "id": "everyday-094",
+          "text": "Let's buy some fruit for the picnic.",
+          "hint": "Suggest getting fresh food for an outdoor meal."
+        },
+        {
+          "id": "everyday-095",
+          "text": "I can bring a blanket.",
+          "hint": "Offer to provide something to sit on or keep warm."
+        },
+        {
+          "id": "everyday-096",
+          "text": "My brother is going to make sandwiches.",
+          "hint": "Say a relative plans to prepare filled bread."
+        },
+        {
+          "id": "everyday-097",
+          "text": "We don't need to take many things.",
+          "hint": "Explain that only a few items are necessary."
+        },
+        {
+          "id": "everyday-098",
+          "text": "Can we meet at the park entrance?",
+          "hint": "Suggest gathering at the way into a green space."
+        },
+        {
+          "id": "everyday-099",
+          "text": "I want to stay home tonight because I am tired.",
+          "hint": "Give a need for rest as your reason not to go out."
+        },
+        {
+          "id": "everyday-100",
+          "text": "We can make another plan for next week.",
+          "hint": "Suggest arranging a different activity at a later date."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,580 @@
+{
+  "id": "work",
+  "title": "Work & Business",
+  "tagline": "Communicate clearly throughout your working day.",
+  "description": "Practice practical workplace English for messages, meetings, deadlines, feedback, customer support, remote teamwork, presentations, and everyday negotiations.",
+  "level": "B1",
+  "category": "Professional",
+  "chapters": [
+    {
+      "id": "work-01",
+      "title": "Finding Your Feet",
+      "description": "Meet colleagues, understand responsibilities, and ask useful questions at work.",
+      "sentences": [
+        {
+          "id": "work-001",
+          "text": "I'll be working with the sales team this month.",
+          "hint": "Explain your temporary team assignment."
+        },
+        {
+          "id": "work-002",
+          "text": "Could you show me where we keep the office supplies?",
+          "hint": "Ask a colleague to help you find shared materials."
+        },
+        {
+          "id": "work-003",
+          "text": "My main responsibility is keeping our product information up to date.",
+          "hint": "Describe the central task in your role."
+        },
+        {
+          "id": "work-004",
+          "text": "Who should I contact if I have a question about expenses?",
+          "hint": "Find the right person for advice about work-related costs."
+        },
+        {
+          "id": "work-005",
+          "text": "I've used a similar system in my previous role.",
+          "hint": "Mention relevant experience from an earlier job."
+        },
+        {
+          "id": "work-006",
+          "text": "We usually have a short team meeting on Monday mornings.",
+          "hint": "Describe a regular event at the start of the working week."
+        },
+        {
+          "id": "work-007",
+          "text": "Is there a guide I can read before the training session?",
+          "hint": "Ask for material to help you prepare to learn."
+        },
+        {
+          "id": "work-008",
+          "text": "I'm still learning the process, so I may need some help.",
+          "hint": "Explain why you might ask colleagues for support."
+        },
+        {
+          "id": "work-009",
+          "text": "You've made me feel welcome during my first week.",
+          "hint": "Appreciate the team's friendly introduction to your new job."
+        },
+        {
+          "id": "work-010",
+          "text": "Let's introduce ourselves before we begin the workshop.",
+          "hint": "Suggest that participants share who they are before an activity."
+        }
+      ]
+    },
+    {
+      "id": "work-02",
+      "title": "Messages That Make Sense",
+      "description": "Write complete, polite email sentences that make the next step clear.",
+      "sentences": [
+        {
+          "id": "work-011",
+          "text": "I'm writing to confirm our appointment for Tuesday afternoon.",
+          "hint": "State that a planned meeting is still going ahead."
+        },
+        {
+          "id": "work-012",
+          "text": "Please find the updated schedule attached to this email.",
+          "hint": "Direct the reader to a revised document included with your message."
+        },
+        {
+          "id": "work-013",
+          "text": "Could you send me the order number so I can check its status?",
+          "hint": "Request the detail needed to investigate a purchase."
+        },
+        {
+          "id": "work-014",
+          "text": "Thank you for getting back to me so quickly.",
+          "hint": "Acknowledge a prompt response."
+        },
+        {
+          "id": "work-015",
+          "text": "I've copied our finance team into this conversation.",
+          "hint": "Explain that colleagues responsible for money matters can also see the messages."
+        },
+        {
+          "id": "work-016",
+          "text": "Would you prefer a phone call or a written summary?",
+          "hint": "Offer a choice of communication methods."
+        },
+        {
+          "id": "work-017",
+          "text": "The link in my earlier email was incorrect, and I apologize for the confusion.",
+          "hint": "Acknowledge a mistake in a previous message."
+        },
+        {
+          "id": "work-018",
+          "text": "For clarity, the price includes delivery but not installation.",
+          "hint": "Explain exactly which services are covered by a quoted amount."
+        },
+        {
+          "id": "work-019",
+          "text": "Please let me know by noon whether you can attend.",
+          "hint": "Request confirmation of availability before a specific time."
+        },
+        {
+          "id": "work-020",
+          "text": "I'll follow up next week if I haven't heard from you.",
+          "hint": "Explain when you will contact the reader again without a reply."
+        }
+      ]
+    },
+    {
+      "id": "work-03",
+      "title": "Meetings With a Purpose",
+      "description": "Open a discussion, contribute ideas, and finish with clear actions.",
+      "sentences": [
+        {
+          "id": "work-021",
+          "text": "The aim of today's meeting is to choose a launch date.",
+          "hint": "Explain the decision the group needs to make."
+        },
+        {
+          "id": "work-022",
+          "text": "Does anyone have an update before we move to the next item?",
+          "hint": "Invite new information before continuing the agenda."
+        },
+        {
+          "id": "work-023",
+          "text": "I'd like to hear from the people who handle deliveries.",
+          "hint": "Ask for input from colleagues with relevant practical experience."
+        },
+        {
+          "id": "work-024",
+          "text": "Could you give us an example of the problem?",
+          "hint": "Request a specific case to make an issue clearer."
+        },
+        {
+          "id": "work-025",
+          "text": "That's a useful point, but we need to stay within our budget.",
+          "hint": "Recognize an idea while reminding the group about spending limits."
+        },
+        {
+          "id": "work-026",
+          "text": "We seem to be discussing two separate questions.",
+          "hint": "Point out that different topics have become mixed together."
+        },
+        {
+          "id": "work-027",
+          "text": "Shall we take five minutes to compare the options?",
+          "hint": "Suggest a brief pause to consider the alternatives."
+        },
+        {
+          "id": "work-028",
+          "text": "I'm happy to take notes while you lead the discussion.",
+          "hint": "Offer to record the meeting as someone else runs it."
+        },
+        {
+          "id": "work-029",
+          "text": "Before we finish, let's confirm who is doing each task.",
+          "hint": "Check responsibilities at the end of a meeting."
+        },
+        {
+          "id": "work-030",
+          "text": "We've agreed to test the new process with a small group first.",
+          "hint": "Summarize a decision to begin with a limited trial."
+        }
+      ]
+    },
+    {
+      "id": "work-04",
+      "title": "Time, Tasks, and Deadlines",
+      "description": "Discuss progress, manage priorities, and raise timing concerns early.",
+      "sentences": [
+        {
+          "id": "work-031",
+          "text": "The report is due on Friday, and the research is nearly complete.",
+          "hint": "Share both a deadline and the current state of the work."
+        },
+        {
+          "id": "work-032",
+          "text": "Which of these requests should I deal with first?",
+          "hint": "Ask someone to help you set priorities."
+        },
+        {
+          "id": "work-033",
+          "text": "I can finish the draft today if the figures arrive this morning.",
+          "hint": "Explain what you need in order to complete a task on time."
+        },
+        {
+          "id": "work-034",
+          "text": "We need to allow extra time for the final checks.",
+          "hint": "Recommend leaving room in the schedule for review."
+        },
+        {
+          "id": "work-035",
+          "text": "I'm waiting for approval before I place the order.",
+          "hint": "Explain why a purchase cannot go ahead yet."
+        },
+        {
+          "id": "work-036",
+          "text": "Could we move the deadline back by two days?",
+          "hint": "Request a short extension."
+        },
+        {
+          "id": "work-037",
+          "text": "The design changes are taking longer than we expected.",
+          "hint": "Warn that part of the project is using more time than planned."
+        },
+        {
+          "id": "work-038",
+          "text": "Let's divide the work so that no one has too much to do.",
+          "hint": "Suggest sharing tasks more evenly across the team."
+        },
+        {
+          "id": "work-039",
+          "text": "I'll let you know straight away if the delivery date changes.",
+          "hint": "Promise a prompt warning about any change in arrival time."
+        },
+        {
+          "id": "work-040",
+          "text": "We've completed the urgent tasks, so we can focus on next week's plans.",
+          "hint": "Explain that immediate work is done and attention can shift."
+        }
+      ]
+    },
+    {
+      "id": "work-05",
+      "title": "Feedback That Helps",
+      "description": "Recognize strengths, suggest improvements, and respond constructively to advice.",
+      "sentences": [
+        {
+          "id": "work-041",
+          "text": "Your explanation made a difficult topic easy to understand.",
+          "hint": "Praise someone's clear communication."
+        },
+        {
+          "id": "work-042",
+          "text": "Could you make the introduction shorter and add a clear example?",
+          "hint": "Request two specific improvements to a piece of work."
+        },
+        {
+          "id": "work-043",
+          "text": "The layout looks good, although the headings are hard to read.",
+          "hint": "Balance a positive comment with a concern about readability."
+        },
+        {
+          "id": "work-044",
+          "text": "What would you suggest I do differently next time?",
+          "hint": "Ask for advice that could improve future performance."
+        },
+        {
+          "id": "work-045",
+          "text": "I appreciate the feedback, and I'll revise the document this afternoon.",
+          "hint": "Accept advice and explain how you will act on it."
+        },
+        {
+          "id": "work-046",
+          "text": "It would help if you checked the totals before sharing the file.",
+          "hint": "Recommend a practical habit to prevent number errors."
+        },
+        {
+          "id": "work-047",
+          "text": "You've become much more confident when answering questions.",
+          "hint": "Recognize a colleague's progress in speaking with others."
+        },
+        {
+          "id": "work-048",
+          "text": "Can we discuss the feedback in private after lunch?",
+          "hint": "Request a more suitable setting for a sensitive conversation."
+        },
+        {
+          "id": "work-049",
+          "text": "I understand the concern, but I'd like to explain why I chose this approach.",
+          "hint": "Acknowledge criticism while asking to share your reasoning."
+        },
+        {
+          "id": "work-050",
+          "text": "Let's agree on one improvement to focus on this week.",
+          "hint": "Turn feedback into a manageable short-term goal."
+        }
+      ]
+    },
+    {
+      "id": "work-06",
+      "title": "Taking Care of Customers",
+      "description": "Clarify customer needs, handle problems calmly, and offer practical solutions.",
+      "sentences": [
+        {
+          "id": "work-051",
+          "text": "What will you mainly use the equipment for?",
+          "hint": "Ask about a customer's needs before recommending a product."
+        },
+        {
+          "id": "work-052",
+          "text": "This model costs less to run, but it takes up more space.",
+          "hint": "Compare an operating advantage with a practical drawback."
+        },
+        {
+          "id": "work-053",
+          "text": "Let me check that I've understood your request correctly.",
+          "hint": "Confirm the details before taking action."
+        },
+        {
+          "id": "work-054",
+          "text": "I'm sorry the parcel arrived later than we promised.",
+          "hint": "Apologize for failing to meet an agreed delivery time."
+        },
+        {
+          "id": "work-055",
+          "text": "Could you describe what happens when you switch the device on?",
+          "hint": "Ask for an observation that may help identify a fault."
+        },
+        {
+          "id": "work-056",
+          "text": "I'll stay on the line while you try those steps.",
+          "hint": "Offer continued support during a phone troubleshooting call."
+        },
+        {
+          "id": "work-057",
+          "text": "We can offer a replacement or return the full amount you paid.",
+          "hint": "Give a customer two ways to resolve a faulty purchase."
+        },
+        {
+          "id": "work-058",
+          "text": "I don't have that information yet, but I'll find out for you.",
+          "hint": "Be honest about a knowledge gap and offer to investigate."
+        },
+        {
+          "id": "work-059",
+          "text": "Would you like me to explain the return policy before you decide?",
+          "hint": "Offer useful conditions to support a purchase decision."
+        },
+        {
+          "id": "work-060",
+          "text": "Thank you for your patience while we sorted out the problem.",
+          "hint": "Appreciate a customer's understanding during a delay."
+        }
+      ]
+    },
+    {
+      "id": "work-07",
+      "title": "Working Together From Anywhere",
+      "description": "Coordinate across locations, share work clearly, and handle online meeting issues.",
+      "sentences": [
+        {
+          "id": "work-061",
+          "text": "Can everyone hear me clearly, or should I use a headset?",
+          "hint": "Check your sound quality at the start of an online call."
+        },
+        {
+          "id": "work-062",
+          "text": "Your screen is frozen, but we can still hear your voice.",
+          "hint": "Describe a video problem without suggesting the whole connection has failed."
+        },
+        {
+          "id": "work-063",
+          "text": "I'll share my screen so we can look at the same document.",
+          "hint": "Offer a common view of the material under discussion."
+        },
+        {
+          "id": "work-064",
+          "text": "Please put your questions in the chat while the speaker is presenting.",
+          "hint": "Suggest a way to ask questions without interrupting."
+        },
+        {
+          "id": "work-065",
+          "text": "I've saved the latest version in our shared folder.",
+          "hint": "Tell colleagues where to find the current file."
+        },
+        {
+          "id": "work-066",
+          "text": "Could we choose a time that suits colleagues in both time zones?",
+          "hint": "Request a meeting schedule that considers different locations."
+        },
+        {
+          "id": "work-067",
+          "text": "I won't be online tomorrow morning, but I've left detailed notes.",
+          "hint": "Explain an absence and how others can continue without you."
+        },
+        {
+          "id": "work-068",
+          "text": "A written update would save us from arranging another call.",
+          "hint": "Suggest a simpler alternative to an extra meeting."
+        },
+        {
+          "id": "work-069",
+          "text": "Let's check with the team before recording the session.",
+          "hint": "Recommend getting agreement before saving an online conversation."
+        },
+        {
+          "id": "work-070",
+          "text": "If your connection drops, you can rejoin using the same link.",
+          "hint": "Explain how to return after an internet interruption."
+        }
+      ]
+    },
+    {
+      "id": "work-08",
+      "title": "Presenting an Idea",
+      "description": "Guide an audience through information, explain evidence, and handle questions.",
+      "sentences": [
+        {
+          "id": "work-071",
+          "text": "Today I'd like to show you a simpler way to manage bookings.",
+          "hint": "Introduce a presentation about improving a routine task."
+        },
+        {
+          "id": "work-072",
+          "text": "I'll begin with the main problem and then explain our proposed solution.",
+          "hint": "Give the audience a clear outline of your talk."
+        },
+        {
+          "id": "work-073",
+          "text": "As this chart shows, most orders arrive during the first week of each month.",
+          "hint": "Use a visual to describe a regular pattern in sales."
+        },
+        {
+          "id": "work-074",
+          "text": "Compared with last year, we've reduced the average waiting time.",
+          "hint": "Describe an improvement by comparing two periods."
+        },
+        {
+          "id": "work-075",
+          "text": "The main benefit for customers is that they can book without calling us.",
+          "hint": "Explain how a proposed service makes life easier for users."
+        },
+        {
+          "id": "work-076",
+          "text": "Let me give you an example from a typical working day.",
+          "hint": "Introduce a realistic situation to support an explanation."
+        },
+        {
+          "id": "work-077",
+          "text": "We tested the idea with ten users, so the results are still limited.",
+          "hint": "Explain why early evidence should be treated cautiously."
+        },
+        {
+          "id": "work-078",
+          "text": "That's an important question, and the next slide should help answer it.",
+          "hint": "Acknowledge an audience question that your upcoming material addresses."
+        },
+        {
+          "id": "work-079",
+          "text": "To sum up, this change could save time without increasing costs.",
+          "hint": "Close by highlighting efficiency and affordability."
+        },
+        {
+          "id": "work-080",
+          "text": "What concerns would you want us to address before we move forward?",
+          "hint": "Invite the audience to identify issues before a decision."
+        }
+      ]
+    },
+    {
+      "id": "work-09",
+      "title": "Finding a Fair Agreement",
+      "description": "Discuss prices and conditions, offer alternatives, and confirm an agreement.",
+      "sentences": [
+        {
+          "id": "work-081",
+          "text": "Before we discuss the price, could we confirm exactly what the service includes?",
+          "hint": "Clarify the offer before negotiating its cost."
+        },
+        {
+          "id": "work-082",
+          "text": "Our budget is limited, but we're interested in a longer contract.",
+          "hint": "Balance a spending restriction with a possible benefit for the supplier."
+        },
+        {
+          "id": "work-083",
+          "text": "Would a larger order allow you to offer a lower price per item?",
+          "hint": "Ask whether buying more could earn a discount."
+        },
+        {
+          "id": "work-084",
+          "text": "We could accept a later delivery if transport were included in the price.",
+          "hint": "Offer flexibility on timing in exchange for a cost benefit."
+        },
+        {
+          "id": "work-085",
+          "text": "That offer is close to what we need, although the payment date is difficult.",
+          "hint": "Identify the remaining concern in an otherwise suitable proposal."
+        },
+        {
+          "id": "work-086",
+          "text": "Is there any flexibility in the length of the trial period?",
+          "hint": "Explore whether a testing arrangement can be adjusted."
+        },
+        {
+          "id": "work-087",
+          "text": "I'd need approval from my manager before agreeing to that amount.",
+          "hint": "Explain the limit of your authority to accept a price."
+        },
+        {
+          "id": "work-088",
+          "text": "Rather than reduce the quality, we suggest starting with fewer products.",
+          "hint": "Offer a smaller quantity as an alternative to a lower standard."
+        },
+        {
+          "id": "work-089",
+          "text": "Let's put the agreed terms in writing so both sides have a clear record.",
+          "hint": "Recommend documenting the deal to avoid confusion."
+        },
+        {
+          "id": "work-090",
+          "text": "We're pleased to have found an arrangement that works for both companies.",
+          "hint": "End a negotiation by recognizing a balanced outcome."
+        }
+      ]
+    },
+    {
+      "id": "work-10",
+      "title": "When Plans Need to Change",
+      "description": "Handle setbacks responsibly, explain trade-offs, and learn from completed work.",
+      "sentences": [
+        {
+          "id": "work-091",
+          "text": "We've found an error in the estimate, and I'd like to explain the impact.",
+          "hint": "Raise a mistake openly and prepare to discuss its consequences."
+        },
+        {
+          "id": "work-092",
+          "text": "The supplier can't provide all the materials, so we need an alternative.",
+          "hint": "Describe a shortage that requires a different plan."
+        },
+        {
+          "id": "work-093",
+          "text": "What can we deliver on time without putting quality at risk?",
+          "hint": "Ask how to meet commitments while protecting standards."
+        },
+        {
+          "id": "work-094",
+          "text": "I should have raised this issue earlier, and I take responsibility for the delay.",
+          "hint": "Acknowledge that your late warning affected the schedule."
+        },
+        {
+          "id": "work-095",
+          "text": "Let's inform the customer now rather than wait until the last minute.",
+          "hint": "Recommend giving early notice of a problem."
+        },
+        {
+          "id": "work-096",
+          "text": "If we postpone the launch, we'll have more time for testing but miss the holiday sales.",
+          "hint": "Explain both a benefit and a cost of changing the schedule."
+        },
+        {
+          "id": "work-097",
+          "text": "Could someone check my calculations before I send the revised figures?",
+          "hint": "Request a second review to prevent another numerical mistake."
+        },
+        {
+          "id": "work-098",
+          "text": "The immediate problem is solved, but we still need to understand its cause.",
+          "hint": "Distinguish fixing an issue from learning why it happened."
+        },
+        {
+          "id": "work-099",
+          "text": "Looking back, clearer instructions would have prevented most of the confusion.",
+          "hint": "Identify a communication improvement after reviewing past work."
+        },
+        {
+          "id": "work-100",
+          "text": "Before we close the project, let's record what worked well and what we'd change.",
+          "hint": "Suggest capturing useful lessons at the end of the work."
+        }
+      ]
+    }
+  ]
+}
