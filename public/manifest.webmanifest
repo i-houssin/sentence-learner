@@ -1,0 +1,10 @@
+{
+  "name": "Sentence Learner",
+  "short_name": "Sentence",
+  "description": "Listen, type, and learn English through whole sentences.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f9f8",
+  "theme_color": "#164e3f",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}

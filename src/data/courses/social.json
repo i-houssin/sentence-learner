@@ -1,0 +1,572 @@
+{
+  "id": "social",
+  "title": "Social Conversations",
+  "tagline": "Find the words for friendly everyday moments.",
+  "description": "Build confidence in everyday conversations, from meeting new people and sharing interests to making plans, showing care, and clearing up small misunderstandings.",
+  "level": "A2",
+  "category": "Real life",
+  "chapters": [
+    {
+      "id": "social-01",
+      "title": "A Friendly First Hello",
+      "description": "Introduce yourself, welcome someone, and begin a relaxed conversation.",
+      "sentences": [
+        {
+          "id": "social-001",
+          "text": "Hi, I'm new to this neighborhood.",
+          "hint": "Explain that you recently moved to the area."
+        },
+        {
+          "id": "social-002",
+          "text": "Is this your first time at the club?",
+          "hint": "Ask whether someone has visited the group before."
+        },
+        {
+          "id": "social-003",
+          "text": "It's nice to meet someone who lives nearby.",
+          "hint": "Show pleasure at meeting a local person."
+        },
+        {
+          "id": "social-004",
+          "text": "What do you like to do on weekends?",
+          "hint": "Ask about someone's free-time activities."
+        },
+        {
+          "id": "social-005",
+          "text": "I work at a small shop near the station.",
+          "hint": "Describe your job and its location."
+        },
+        {
+          "id": "social-006",
+          "text": "How do you know the host?",
+          "hint": "Ask about someone's connection to the party organizer."
+        },
+        {
+          "id": "social-007",
+          "text": "Please call me by my first name.",
+          "hint": "Invite someone to use a less formal name."
+        },
+        {
+          "id": "social-008",
+          "text": "There's a free seat next to me.",
+          "hint": "Let someone know they can sit beside you."
+        },
+        {
+          "id": "social-009",
+          "text": "Would you like to join our conversation?",
+          "hint": "Invite another person into the discussion."
+        },
+        {
+          "id": "social-010",
+          "text": "I'm glad we finally had a chance to talk.",
+          "hint": "Say that you enjoyed getting to know someone."
+        }
+      ]
+    },
+    {
+      "id": "social-02",
+      "title": "Little Everyday Chats",
+      "description": "Keep a conversation going with simple questions and everyday observations.",
+      "sentences": [
+        {
+          "id": "social-011",
+          "text": "Did you have a good morning?",
+          "hint": "Ask how the first part of someone's day went."
+        },
+        {
+          "id": "social-012",
+          "text": "The park looks lovely in the sunshine.",
+          "hint": "Comment on a pleasant outdoor scene."
+        },
+        { "id": "social-013", "text": "My bus was late, so I walked here.", "hint": "Explain why you came on foot." },
+        {
+          "id": "social-014",
+          "text": "That jacket is a really nice color.",
+          "hint": "Give a simple compliment about someone's clothes."
+        },
+        {
+          "id": "social-015",
+          "text": "Have you tried the new bakery?",
+          "hint": "Ask whether someone has bought food from a recently opened shop."
+        },
+        {
+          "id": "social-016",
+          "text": "I usually stop here for coffee after work.",
+          "hint": "Describe a regular visit at the end of your working day."
+        },
+        { "id": "social-017", "text": "Was the market busy today?", "hint": "Ask whether there were many shoppers." },
+        {
+          "id": "social-018",
+          "text": "Your dog seems very friendly.",
+          "hint": "Make a warm comment about someone's pet."
+        },
+        {
+          "id": "social-019",
+          "text": "It's getting cold outside, isn't it?",
+          "hint": "Invite agreement about a change in the weather."
+        },
+        {
+          "id": "social-020",
+          "text": "I hope the rain stops before your walk home.",
+          "hint": "Wish someone better weather for their journey."
+        }
+      ]
+    },
+    {
+      "id": "social-03",
+      "title": "What We Enjoy",
+      "description": "Share your tastes and discover interests you have in common.",
+      "sentences": [
+        {
+          "id": "social-021",
+          "text": "I'd rather watch a comedy tonight.",
+          "hint": "Choose a funny film over other kinds."
+        },
+        {
+          "id": "social-022",
+          "text": "Do you prefer cooking at home or eating out?",
+          "hint": "Ask which kind of meal experience someone likes more."
+        },
+        {
+          "id": "social-023",
+          "text": "I love music, but I can't play an instrument.",
+          "hint": "Describe an interest without claiming a musical skill."
+        },
+        {
+          "id": "social-024",
+          "text": "Swimming helps me relax after a busy day.",
+          "hint": "Explain how a water activity makes you feel calmer."
+        },
+        {
+          "id": "social-025",
+          "text": "What kind of books do you usually read?",
+          "hint": "Find out about someone's reading tastes."
+        },
+        {
+          "id": "social-026",
+          "text": "I'm not very interested in watching sports.",
+          "hint": "Politely say that sports programs are not your favorite."
+        },
+        {
+          "id": "social-027",
+          "text": "This soup is a little too spicy for me.",
+          "hint": "Explain that a dish has more heat than you enjoy."
+        },
+        {
+          "id": "social-028",
+          "text": "We both enjoy taking photos of nature.",
+          "hint": "Point out a shared outdoor hobby."
+        },
+        {
+          "id": "social-029",
+          "text": "Could you recommend an easy board game?",
+          "hint": "Ask for a suggestion that is simple to learn."
+        },
+        {
+          "id": "social-030",
+          "text": "I'd like to try dancing, even though I'm shy.",
+          "hint": "Show interest in a new activity despite feeling nervous."
+        }
+      ]
+    },
+    {
+      "id": "social-04",
+      "title": "You're Invited",
+      "description": "Offer invitations, accept warmly, and say no without sounding unfriendly.",
+      "sentences": [
+        {
+          "id": "social-031",
+          "text": "Would you like to come over for dinner on Friday?",
+          "hint": "Invite someone to an evening meal at your home."
+        },
+        {
+          "id": "social-032",
+          "text": "We're having a picnic, and you're welcome to come.",
+          "hint": "Include someone in an outdoor meal."
+        },
+        {
+          "id": "social-033",
+          "text": "Thank you for asking, but I already have plans.",
+          "hint": "Decline politely because you are not free."
+        },
+        {
+          "id": "social-034",
+          "text": "I'd love to go to the concert with you.",
+          "hint": "Accept an invitation to hear live music."
+        },
+        {
+          "id": "social-035",
+          "text": "Is it all right if I bring a friend?",
+          "hint": "Check whether another guest can join you."
+        },
+        {
+          "id": "social-036",
+          "text": "You don't need to bring any food.",
+          "hint": "Tell a guest that the meal is already covered."
+        },
+        {
+          "id": "social-037",
+          "text": "Saturday is difficult for me, but Sunday is fine.",
+          "hint": "Offer a different day when you are available."
+        },
+        {
+          "id": "social-038",
+          "text": "Can I let you know tomorrow morning?",
+          "hint": "Ask for more time before giving an answer."
+        },
+        {
+          "id": "social-039",
+          "text": "Let's invite the neighbors to our barbecue.",
+          "hint": "Suggest including the people who live nearby."
+        },
+        {
+          "id": "social-040",
+          "text": "Thank you for inviting me to such a lovely evening.",
+          "hint": "Show appreciation after an enjoyable visit."
+        }
+      ]
+    },
+    {
+      "id": "social-05",
+      "title": "How We Feel",
+      "description": "Talk about emotions and respond with interest and care.",
+      "sentences": [
+        {
+          "id": "social-041",
+          "text": "I'm excited about my first painting lesson.",
+          "hint": "Share a happy feeling about starting a creative class."
+        },
+        {
+          "id": "social-042",
+          "text": "You seem quiet today; is everything okay?",
+          "hint": "Gently check on someone who is not talking much."
+        },
+        {
+          "id": "social-043",
+          "text": "I've had a long day, and I need some rest.",
+          "hint": "Explain that you feel tired and want a break."
+        },
+        {
+          "id": "social-044",
+          "text": "I'm sorry your trip didn't go well.",
+          "hint": "Show sympathy after a disappointing journey."
+        },
+        {
+          "id": "social-045",
+          "text": "Talking to you always makes me feel better.",
+          "hint": "Explain that a friend's company improves your mood."
+        },
+        {
+          "id": "social-046",
+          "text": "Are you nervous about meeting the group?",
+          "hint": "Ask whether a social event is causing worry."
+        },
+        {
+          "id": "social-047",
+          "text": "I'm proud of myself for trying something new.",
+          "hint": "Share satisfaction about stepping outside your usual routine."
+        },
+        {
+          "id": "social-048",
+          "text": "You don't have to talk about it right now.",
+          "hint": "Give someone space to share their feelings later."
+        },
+        {
+          "id": "social-049",
+          "text": "I'm so relieved to hear that you're feeling better!",
+          "hint": "Express happiness that someone's health has improved."
+        },
+        {
+          "id": "social-050",
+          "text": "Would a short walk help you feel less worried?",
+          "hint": "Suggest gentle exercise as a way to relax."
+        }
+      ]
+    },
+    {
+      "id": "social-06",
+      "title": "Let's Make a Plan",
+      "description": "Agree on times, places, and simple changes to shared plans.",
+      "sentences": [
+        {
+          "id": "social-051",
+          "text": "Shall we meet outside the cinema at six?",
+          "hint": "Suggest a meeting point and an evening time."
+        },
+        {
+          "id": "social-052",
+          "text": "The earlier train gives us more time at the beach.",
+          "hint": "Explain the benefit of leaving sooner."
+        },
+        {
+          "id": "social-053",
+          "text": "Which day works best for everyone?",
+          "hint": "Ask the group to choose a convenient date."
+        },
+        {
+          "id": "social-054",
+          "text": "I'll book a table once we choose a restaurant.",
+          "hint": "Offer to arrange seats after the group makes a decision."
+        },
+        {
+          "id": "social-055",
+          "text": "Could we start a little later than usual?",
+          "hint": "Request a small change to the normal starting time."
+        },
+        {
+          "id": "social-056",
+          "text": "If it rains, we can have lunch at my place.",
+          "hint": "Offer an indoor option for bad weather."
+        },
+        {
+          "id": "social-057",
+          "text": "Let's check the opening times before we leave.",
+          "hint": "Suggest confirming when a place is open."
+        },
+        {
+          "id": "social-058",
+          "text": "I'm running ten minutes late, but I'm on my way.",
+          "hint": "Tell someone about a short delay while you are traveling."
+        },
+        {
+          "id": "social-059",
+          "text": "Do we have enough time for a quick coffee?",
+          "hint": "Check whether a brief café stop fits the schedule."
+        },
+        {
+          "id": "social-060",
+          "text": "Please send me a message if the plan changes.",
+          "hint": "Ask to be told about any new arrangements."
+        }
+      ]
+    },
+    {
+      "id": "social-07",
+      "title": "Small Acts of Kindness",
+      "description": "Ask for favors, offer practical help, and respect other people's time.",
+      "sentences": [
+        {
+          "id": "social-061",
+          "text": "Could you hold the door while I carry these bags?",
+          "hint": "Request a little help with a heavy load."
+        },
+        {
+          "id": "social-062",
+          "text": "I can water your plants while you're away.",
+          "hint": "Offer to care for something during a friend's trip."
+        },
+        {
+          "id": "social-063",
+          "text": "Would you mind taking a photo of us?",
+          "hint": "Politely ask someone to use the camera for your group."
+        },
+        {
+          "id": "social-064",
+          "text": "You made moving the sofa much easier.",
+          "hint": "Show appreciation for assistance with furniture."
+        },
+        {
+          "id": "social-065",
+          "text": "You can borrow my umbrella until tomorrow.",
+          "hint": "Offer temporary use of something that keeps the rain off."
+        },
+        {
+          "id": "social-066",
+          "text": "Is there anything I can do to help with dinner?",
+          "hint": "Offer assistance while a meal is being prepared."
+        },
+        {
+          "id": "social-067",
+          "text": "I can't stay long, but I can help you tidy up.",
+          "hint": "Offer a little help before you need to leave."
+        },
+        {
+          "id": "social-068",
+          "text": "Please don't worry about returning the book today.",
+          "hint": "Tell someone there is no hurry to give something back."
+        },
+        {
+          "id": "social-069",
+          "text": "Let me know if the music is too loud.",
+          "hint": "Invite someone to speak up about the noise."
+        },
+        {
+          "id": "social-070",
+          "text": "I'd like to help, but I need a quiet evening alone.",
+          "hint": "Kindly explain that you need personal time instead."
+        }
+      ]
+    },
+    {
+      "id": "social-08",
+      "title": "Different Ideas, Still Friends",
+      "description": "Express another opinion gently and find choices that suit both people.",
+      "sentences": [
+        {
+          "id": "social-071",
+          "text": "I see what you mean, but I enjoyed the ending.",
+          "hint": "Respect another view while giving your own reaction to a story."
+        },
+        {
+          "id": "social-072",
+          "text": "That café is nice, although it's a bit noisy.",
+          "hint": "Mention a drawback without rejecting a place completely."
+        },
+        {
+          "id": "social-073",
+          "text": "Are you sure that route is the shortest?",
+          "hint": "Gently question someone's choice of directions."
+        },
+        {
+          "id": "social-074",
+          "text": "I'd prefer somewhere cheaper for lunch.",
+          "hint": "Politely suggest spending less on a meal."
+        },
+        {
+          "id": "social-075",
+          "text": "Maybe we have different tastes in music.",
+          "hint": "Explain a disagreement as a difference in personal preference."
+        },
+        {
+          "id": "social-076",
+          "text": "Could we choose a film that we both want to see?",
+          "hint": "Ask for an entertainment choice everyone can enjoy."
+        },
+        {
+          "id": "social-077",
+          "text": "I don't think the weather is warm enough for swimming.",
+          "hint": "Give a reason for not wanting to get in the water."
+        },
+        {
+          "id": "social-078",
+          "text": "Let's take turns choosing where we go.",
+          "hint": "Suggest sharing decisions fairly over time."
+        },
+        {
+          "id": "social-079",
+          "text": "You might be right about leaving before the traffic gets bad.",
+          "hint": "Accept that another person's travel advice may be sensible."
+        },
+        {
+          "id": "social-080",
+          "text": "We don't have to agree on everything to have fun together.",
+          "hint": "Reassure a friend that different opinions are okay."
+        }
+      ]
+    },
+    {
+      "id": "social-09",
+      "title": "Keeping Friendship Close",
+      "description": "Stay connected, celebrate good news, and make room for each other.",
+      "sentences": [
+        {
+          "id": "social-081",
+          "text": "It's been a while since we last had lunch together.",
+          "hint": "Mention that you have not shared a meal recently."
+        },
+        {
+          "id": "social-082",
+          "text": "How did your driving test go?",
+          "hint": "Follow up on an important event in a friend's life."
+        },
+        {
+          "id": "social-083",
+          "text": "I saw a funny postcard and thought of you.",
+          "hint": "Explain that a small discovery reminded you of a friend."
+        },
+        {
+          "id": "social-084",
+          "text": "I'm so happy you've found a place of your own!",
+          "hint": "Celebrate someone's move into their own home."
+        },
+        {
+          "id": "social-085",
+          "text": "Can we catch up on the phone this weekend?",
+          "hint": "Suggest a call to share recent news."
+        },
+        {
+          "id": "social-086",
+          "text": "I miss our evening walks by the river.",
+          "hint": "Say that you wish a shared routine could happen again."
+        },
+        {
+          "id": "social-087",
+          "text": "There's no rush to reply if you're busy.",
+          "hint": "Remove pressure to answer your message immediately."
+        },
+        {
+          "id": "social-088",
+          "text": "You've always been a good listener.",
+          "hint": "Appreciate a friend's attention and understanding."
+        },
+        {
+          "id": "social-089",
+          "text": "Let's make more time for each other next month.",
+          "hint": "Suggest seeing a friend more often in the near future."
+        },
+        {
+          "id": "social-090",
+          "text": "Even a short visit would be lovely.",
+          "hint": "Show that you would appreciate a little time together."
+        }
+      ]
+    },
+    {
+      "id": "social-10",
+      "title": "Clearing Things Up",
+      "description": "Check what someone means, explain mistakes, and repair small misunderstandings.",
+      "sentences": [
+        {
+          "id": "social-091",
+          "text": "Sorry, I thought we were meeting at the other entrance.",
+          "hint": "Explain a mistake about the agreed meeting point."
+        },
+        {
+          "id": "social-092",
+          "text": "Did you mean this Thursday or next Thursday?",
+          "hint": "Check which week a person is talking about."
+        },
+        {
+          "id": "social-093",
+          "text": "I didn't mean to sound rude on the phone.",
+          "hint": "Explain that an unfriendly tone was not intentional."
+        },
+        {
+          "id": "social-094",
+          "text": "Could you explain what you meant by that message?",
+          "hint": "Ask for a clearer explanation of a written comment."
+        },
+        {
+          "id": "social-095",
+          "text": "I wasn't ignoring you; my phone was on silent.",
+          "hint": "Explain why you did not notice someone's call."
+        },
+        {
+          "id": "social-096",
+          "text": "I'm glad you told me how you felt about the joke.",
+          "hint": "Appreciate someone's honesty about a comment that upset them."
+        },
+        {
+          "id": "social-097",
+          "text": "I should have asked before I shared your photo.",
+          "hint": "Admit that you needed permission for something you did."
+        },
+        {
+          "id": "social-098",
+          "text": "Let's talk about this when we both feel calmer.",
+          "hint": "Suggest waiting until a difficult conversation will be easier."
+        },
+        {
+          "id": "social-099",
+          "text": "I'm glad we understand each other better now.",
+          "hint": "Express relief after resolving some confusion."
+        },
+        {
+          "id": "social-100",
+          "text": "Can we start again and make a new plan?",
+          "hint": "Invite a fresh attempt after an arrangement went wrong."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,580 @@
+{
+  "id": "stories",
+  "title": "Short Stories",
+  "tagline": "Small moments, unexpected turns, and happy endings.",
+  "description": "Follow ten original everyday stories while you build confident listening and typing habits.",
+  "level": "B1",
+  "category": "Storytelling",
+  "chapters": [
+    {
+      "id": "stories-01",
+      "title": "The Rainy Picnic",
+      "description": "An unexpected shower turns a family picnic into a friendly gathering.",
+      "sentences": [
+        {
+          "id": "stories-001",
+          "text": "On Saturday morning, Mara packed a picnic for her younger brother.",
+          "hint": "A sister prepares an outdoor meal."
+        },
+        {
+          "id": "stories-002",
+          "text": "They had just reached the park when heavy rain began to fall.",
+          "hint": "Wet weather interrupts their outing."
+        },
+        {
+          "id": "stories-003",
+          "text": "While they waited under a tree, Mara noticed the community center nearby.",
+          "hint": "She spots a nearby public building."
+        },
+        {
+          "id": "stories-004",
+          "text": "Its front door was open, so they hurried inside with their basket.",
+          "hint": "An open entrance offers a dry escape."
+        },
+        {
+          "id": "stories-005",
+          "text": "A volunteer invited them to use a table beside the window.",
+          "hint": "A helper provides a place to eat."
+        },
+        {
+          "id": "stories-006",
+          "text": "Two other families arrived, carrying wet coats and disappointed faces.",
+          "hint": "More visitors arrive unhappy about the weather."
+        },
+        {
+          "id": "stories-007",
+          "text": "Mara asked whether they would like to share her sandwiches.",
+          "hint": "She offers to divide their lunch."
+        },
+        {
+          "id": "stories-008",
+          "text": "Soon everyone was laughing as the children invented a guessing game.",
+          "hint": "A playful activity lifts everyone's mood."
+        },
+        {
+          "id": "stories-009",
+          "text": "By the time the rain stopped, nobody wanted to leave.",
+          "hint": "The guests enjoy staying after the storm."
+        },
+        {
+          "id": "stories-010",
+          "text": "They agreed that their next picnic would begin at the same table.",
+          "hint": "Their unexpected meeting becomes a future plan."
+        }
+      ]
+    },
+    {
+      "id": "stories-02",
+      "title": "A Seat at Lunch",
+      "description": "A new employee receives a warm welcome and passes it on.",
+      "sentences": [
+        {
+          "id": "stories-011",
+          "text": "Leo started his new job on a busy Monday morning.",
+          "hint": "A new employee begins his first day."
+        },
+        {
+          "id": "stories-012",
+          "text": "At lunchtime, he carried his sandwich toward an empty table.",
+          "hint": "He initially chooses to eat alone."
+        },
+        {
+          "id": "stories-013",
+          "text": "Before he sat down, a colleague waved from across the room.",
+          "hint": "Someone signals before he settles down."
+        },
+        {
+          "id": "stories-014",
+          "text": "She introduced herself as Eva and offered him a seat.",
+          "hint": "A coworker welcomes him to her table."
+        },
+        {
+          "id": "stories-015",
+          "text": "Leo discovered that they both enjoyed walking in the hills.",
+          "hint": "They find a shared outdoor interest."
+        },
+        {
+          "id": "stories-016",
+          "text": "Their conversation grew easier, and he forgot about his nervousness.",
+          "hint": "A friendly chat helps him relax."
+        },
+        {
+          "id": "stories-017",
+          "text": "When a new assistant entered, she stood quietly by the door.",
+          "hint": "Another newcomer hesitates at the entrance."
+        },
+        {
+          "id": "stories-018",
+          "text": "Remembering his own arrival, Leo invited her to join them.",
+          "hint": "He passes on the welcome he received."
+        },
+        {
+          "id": "stories-019",
+          "text": "The three colleagues planned a short walk after work that evening.",
+          "hint": "They arrange an evening outing together."
+        },
+        {
+          "id": "stories-020",
+          "text": "As he returned to his desk, Leo already felt part of the team.",
+          "hint": "He heads back feeling that he belongs."
+        }
+      ]
+    },
+    {
+      "id": "stories-03",
+      "title": "The Bicycle Repair",
+      "description": "Learning to fix an old bicycle gives a rider confidence and a reason to say thanks.",
+      "sentences": [
+        {
+          "id": "stories-021",
+          "text": "Nina bought an old bicycle at the neighborhood market on Sunday.",
+          "hint": "A shopper brings home a used bike."
+        },
+        {
+          "id": "stories-022",
+          "text": "The wheels turned well, but the brakes made a terrible noise.",
+          "hint": "One noisy part needs some attention."
+        },
+        {
+          "id": "stories-023",
+          "text": "Her neighbor offered to help if she wanted to learn basic repairs.",
+          "hint": "Someone nearby offers a practical lesson."
+        },
+        {
+          "id": "stories-024",
+          "text": "Instead of fixing everything himself, he showed her which tools to use.",
+          "hint": "Her helper teaches rather than taking over."
+        },
+        {
+          "id": "stories-025",
+          "text": "Nina worked slowly, checking each part before moving to the next.",
+          "hint": "She follows a careful sequence of checks."
+        },
+        {
+          "id": "stories-026",
+          "text": "After an hour, she tested the brakes in the quiet courtyard.",
+          "hint": "She tries out the result away from traffic."
+        },
+        {
+          "id": "stories-027",
+          "text": "This time, the bicycle stopped smoothly without making a sound.",
+          "hint": "The repair succeeds, and the noise is gone."
+        },
+        {
+          "id": "stories-028",
+          "text": "She rode to the bakery and bought two warm rolls.",
+          "hint": "Her first trip includes a small food purchase."
+        },
+        {
+          "id": "stories-029",
+          "text": "One was for her neighbor, who was still putting away his tools.",
+          "hint": "She brings her helpful teacher something to eat."
+        },
+        {
+          "id": "stories-030",
+          "text": "As they ate together, Nina began planning a longer ride for the following weekend.",
+          "hint": "Their shared snack inspires another cycling adventure."
+        }
+      ]
+    },
+    {
+      "id": "stories-04",
+      "title": "An Unexpected Book",
+      "description": "A surprising library recommendation helps a balcony gardener solve a problem.",
+      "sentences": [
+        {
+          "id": "stories-031",
+          "text": "Sam visited the library to find a book about growing tomatoes.",
+          "hint": "A reader searches for help with vegetables."
+        },
+        {
+          "id": "stories-032",
+          "text": "The gardening shelf was empty because a school group had borrowed everything.",
+          "hint": "Students have taken the available gardening books."
+        },
+        {
+          "id": "stories-033",
+          "text": "A librarian suggested a travel book about small farms instead.",
+          "hint": "A staff member recommends a different subject."
+        },
+        {
+          "id": "stories-034",
+          "text": "Sam almost refused, but the colorful cover made him curious.",
+          "hint": "The book's bright appearance changes his mind."
+        },
+        {
+          "id": "stories-035",
+          "text": "He sat by the window and began reading about a seaside village.",
+          "hint": "He starts a journey through the pages."
+        },
+        {
+          "id": "stories-036",
+          "text": "The writer described gardens that survived strong winds and salty air.",
+          "hint": "Coastal conditions challenge the gardens he discovers."
+        },
+        {
+          "id": "stories-037",
+          "text": "One simple idea could protect the young plants on his balcony.",
+          "hint": "He finds advice for his own outdoor space."
+        },
+        {
+          "id": "stories-038",
+          "text": "Sam borrowed the book and built a small wooden screen that afternoon.",
+          "hint": "He uses the borrowed book to make shelter."
+        },
+        {
+          "id": "stories-039",
+          "text": "A week later, his tomato plants were standing taller behind it.",
+          "hint": "His protected vegetables begin growing more strongly."
+        },
+        {
+          "id": "stories-040",
+          "text": "He returned to thank the librarian for a suggestion he had nearly ignored.",
+          "hint": "He shows gratitude for an unlikely recommendation."
+        }
+      ]
+    },
+    {
+      "id": "stories-05",
+      "title": "The First Loaf",
+      "description": "A bread recipe goes wrong, but a sister's idea leads to a delicious dinner.",
+      "sentences": [
+        {
+          "id": "stories-041",
+          "text": "Owen decided to bake bread for his sister's visit that evening.",
+          "hint": "A home baker prepares for a family guest."
+        },
+        {
+          "id": "stories-042",
+          "text": "He followed a simple recipe and mixed the ingredients in a large bowl.",
+          "hint": "He combines everything according to written instructions."
+        },
+        {
+          "id": "stories-043",
+          "text": "While the dough rested, he cleaned the kitchen and set the table.",
+          "hint": "He tidies up while waiting for it to rise."
+        },
+        {
+          "id": "stories-044",
+          "text": "An hour later, the dough looked exactly as small as before.",
+          "hint": "The mixture has failed to grow bigger."
+        },
+        {
+          "id": "stories-045",
+          "text": "Owen checked the packet and realized that the yeast was too old.",
+          "hint": "He discovers why the bread has not risen."
+        },
+        {
+          "id": "stories-046",
+          "text": "When his sister arrived, she suggested making flatbread with the dough.",
+          "hint": "His guest proposes a different kind of bread."
+        },
+        {
+          "id": "stories-047",
+          "text": "Together, they rolled thin circles and cooked them in a hot pan.",
+          "hint": "They shape the dough for cooking on the stove."
+        },
+        {
+          "id": "stories-048",
+          "text": "The kitchen soon smelled wonderful, and both of them were hungry.",
+          "hint": "A delicious smell makes them ready to eat."
+        },
+        {
+          "id": "stories-049",
+          "text": "They filled the warm bread with cheese, tomatoes, and fresh salad leaves.",
+          "hint": "They add vegetables and dairy to their meal."
+        },
+        {
+          "id": "stories-050",
+          "text": "Owen kept the recipe but added his sister's idea at the bottom.",
+          "hint": "He saves the successful change for another day."
+        }
+      ]
+    },
+    {
+      "id": "stories-06",
+      "title": "A Garden Above the Street",
+      "description": "Neighbors turn an unused roof corner into a shared herb garden.",
+      "sentences": [
+        {
+          "id": "stories-051",
+          "text": "Asha wanted to grow herbs, but her small apartment had little sunlight.",
+          "hint": "Limited daylight makes indoor planting difficult."
+        },
+        {
+          "id": "stories-052",
+          "text": "One morning, she noticed an unused corner of the building's shared roof.",
+          "hint": "She discovers a possible growing space upstairs."
+        },
+        {
+          "id": "stories-053",
+          "text": "She asked the other residents whether she could put some pots there.",
+          "hint": "She seeks permission from everyone living nearby."
+        },
+        {
+          "id": "stories-054",
+          "text": "Everyone agreed, and one neighbor even offered several empty wooden boxes.",
+          "hint": "A resident supplies containers for the project."
+        },
+        {
+          "id": "stories-055",
+          "text": "Asha filled the boxes with soil while two children planted the seeds.",
+          "hint": "Young helpers join the work of planting."
+        },
+        {
+          "id": "stories-056",
+          "text": "They made a watering schedule so that nobody would forget the plants.",
+          "hint": "They organize regular care for the garden."
+        },
+        {
+          "id": "stories-057",
+          "text": "During a hot week, the smallest plants began to dry out.",
+          "hint": "High temperatures threaten some of the seedlings."
+        },
+        {
+          "id": "stories-058",
+          "text": "The children moved them into the shade and gave them extra water.",
+          "hint": "Quick action helps the weakest greenery recover."
+        },
+        {
+          "id": "stories-059",
+          "text": "By late summer, fresh herbs were growing in every wooden box.",
+          "hint": "Their containers become a healthy summer crop."
+        },
+        {
+          "id": "stories-060",
+          "text": "The neighbors shared the herbs, and Asha cooked a meal to thank everyone.",
+          "hint": "They divide the harvest and celebrate together."
+        }
+      ]
+    },
+    {
+      "id": "stories-07",
+      "title": "Music at the Cafe",
+      "description": "A beginner discovers that a forgotten lyric can bring an audience closer.",
+      "sentences": [
+        {
+          "id": "stories-061",
+          "text": "Ada carried her guitar to a cafe where beginners could perform on Fridays.",
+          "hint": "A new performer brings her instrument to an informal event."
+        },
+        {
+          "id": "stories-062",
+          "text": "She had practiced one song all week, but her hands still felt cold.",
+          "hint": "Preparation has not completely removed her nerves."
+        },
+        {
+          "id": "stories-063",
+          "text": "When the host called her name, she nearly stayed in her chair.",
+          "hint": "She hesitates when it is her turn."
+        },
+        {
+          "id": "stories-064",
+          "text": "Then a woman near the front gave her an encouraging smile.",
+          "hint": "A friendly expression gives her courage."
+        },
+        {
+          "id": "stories-065",
+          "text": "Ada walked onto the small stage and began playing the opening notes.",
+          "hint": "She takes her place and starts the music."
+        },
+        {
+          "id": "stories-066",
+          "text": "Halfway through the song, she forgot a line and stopped singing.",
+          "hint": "A memory problem interrupts the performance."
+        },
+        {
+          "id": "stories-067",
+          "text": "Instead of leaving, she laughed and asked the audience to help.",
+          "hint": "She turns a mistake into a shared activity."
+        },
+        {
+          "id": "stories-068",
+          "text": "Several people knew the words, and their voices soon filled the room.",
+          "hint": "The listeners join in with familiar lyrics."
+        },
+        {
+          "id": "stories-069",
+          "text": "Ada finished the song with them and bowed with a wide smile.",
+          "hint": "She completes the performance feeling much happier."
+        },
+        {
+          "id": "stories-070",
+          "text": "On her way home, she chose another song for the following Friday.",
+          "hint": "She is already preparing to try again."
+        }
+      ]
+    },
+    {
+      "id": "stories-08",
+      "title": "The Missing Glove",
+      "description": "A patient shopper helps a child recover something small but important.",
+      "sentences": [
+        {
+          "id": "stories-071",
+          "text": "Ben found a small red glove beside a bench at the market.",
+          "hint": "A dropped winter item catches a shopper's eye."
+        },
+        {
+          "id": "stories-072",
+          "text": "He picked it up and looked around for someone wearing the other one.",
+          "hint": "He tries to identify the person who lost it."
+        },
+        {
+          "id": "stories-073",
+          "text": "Most shoppers were carrying bags, so he could not see their hands clearly.",
+          "hint": "Shopping bags make his search more difficult."
+        },
+        {
+          "id": "stories-074",
+          "text": "The fruit seller offered to keep the glove beside her weighing scales.",
+          "hint": "A vendor provides a visible place for it."
+        },
+        {
+          "id": "stories-075",
+          "text": "Ben stayed nearby while he chose some apples for the week.",
+          "hint": "He buys fruit without leaving the area."
+        },
+        {
+          "id": "stories-076",
+          "text": "Soon a little girl returned with her father, searching under every stall.",
+          "hint": "A child and parent retrace their steps."
+        },
+        {
+          "id": "stories-077",
+          "text": "Ben noticed that she was wearing just one bright red glove.",
+          "hint": "He spots a matching item on the child."
+        },
+        {
+          "id": "stories-078",
+          "text": "He pointed toward the fruit stall, and the girl's face lit up.",
+          "hint": "His directions bring immediate relief."
+        },
+        {
+          "id": "stories-079",
+          "text": "Her father thanked him while she pulled the missing glove onto her hand.",
+          "hint": "The child recovers it, and her parent shows gratitude."
+        },
+        {
+          "id": "stories-080",
+          "text": "Ben walked home with his apples, pleased that he had stayed a little longer.",
+          "hint": "A small act of patience makes his journey happier."
+        }
+      ]
+    },
+    {
+      "id": "stories-09",
+      "title": "The Longer Walk",
+      "description": "A blocked shortcut leads a commuter to a quieter and more beautiful route.",
+      "sentences": [
+        {
+          "id": "stories-081",
+          "text": "Lena usually took the shortest path from her house to the station.",
+          "hint": "Her daily journey normally follows the quickest route."
+        },
+        {
+          "id": "stories-082",
+          "text": "On Tuesday, a fallen branch blocked the narrow gate near the main road.",
+          "hint": "An obstruction forces her to change direction."
+        },
+        {
+          "id": "stories-083",
+          "text": "She had left early, so she decided to follow the river instead.",
+          "hint": "Extra time allows her to try a riverside route."
+        },
+        {
+          "id": "stories-084",
+          "text": "As she walked, the noise of traffic faded behind the trees.",
+          "hint": "The busy street becomes quieter as she moves away."
+        },
+        {
+          "id": "stories-085",
+          "text": "She stopped to watch an artist sketch the old wooden bridge.",
+          "hint": "A drawing of a nearby crossing interests her."
+        },
+        {
+          "id": "stories-086",
+          "text": "He explained that the morning light made the river look golden.",
+          "hint": "The artist points out the beauty of early daylight."
+        },
+        {
+          "id": "stories-087",
+          "text": "Lena took a photograph and continued toward the station, feeling more relaxed.",
+          "hint": "She records the view and continues in a better mood."
+        },
+        {
+          "id": "stories-088",
+          "text": "At the station, she discovered that she still had five minutes to spare.",
+          "hint": "She arrives with a little time still available."
+        },
+        {
+          "id": "stories-089",
+          "text": "She realized that a longer route did not always mean a worse journey.",
+          "hint": "The detour changes her opinion about taking extra time."
+        },
+        {
+          "id": "stories-090",
+          "text": "From then on, Lena chose the river whenever the weather was fine.",
+          "hint": "The pleasant alternative becomes a regular choice."
+        }
+      ]
+    },
+    {
+      "id": "stories-10",
+      "title": "A Birthday Outside",
+      "description": "A broken oven changes a birthday dinner into a joyful neighborhood party.",
+      "sentences": [
+        {
+          "id": "stories-091",
+          "text": "Rosa planned a small birthday dinner in her apartment for three friends.",
+          "hint": "A host prepares a modest celebration at home."
+        },
+        {
+          "id": "stories-092",
+          "text": "That afternoon, her oven stopped working just as she began preparing the meal.",
+          "hint": "A kitchen problem interrupts her preparations."
+        },
+        {
+          "id": "stories-093",
+          "text": "She tried another setting, but the oven stayed completely cold.",
+          "hint": "Adjusting the controls does not solve the problem."
+        },
+        {
+          "id": "stories-094",
+          "text": "One friend suggested buying sandwiches and eating in the courtyard downstairs.",
+          "hint": "A guest proposes a simple outdoor alternative."
+        },
+        {
+          "id": "stories-095",
+          "text": "Rosa borrowed a folding table and carried some chairs into the evening air.",
+          "hint": "She moves the furniture outside for dinner."
+        },
+        {
+          "id": "stories-096",
+          "text": "As her friends arrived, a neighbor asked what they were celebrating.",
+          "hint": "Someone living nearby becomes curious about the occasion."
+        },
+        {
+          "id": "stories-097",
+          "text": "When he heard about the birthday, he brought a lantern and extra cups.",
+          "hint": "The resident contributes lighting and things for drinks."
+        },
+        {
+          "id": "stories-098",
+          "text": "Other neighbors brought fruit, a small cake, and a packet of candles.",
+          "hint": "More residents supply treats and birthday decorations."
+        },
+        {
+          "id": "stories-099",
+          "text": "The small dinner grew into a cheerful party with people of every age.",
+          "hint": "The gathering expands into a happy community event."
+        },
+        {
+          "id": "stories-100",
+          "text": "Rosa made a wish, grateful that her changed plans had brought everyone together.",
+          "hint": "She appreciates the unexpected friendships at her celebration."
+        }
+      ]
+    }
+  ]
+}

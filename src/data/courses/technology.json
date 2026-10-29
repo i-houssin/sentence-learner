@@ -1,0 +1,580 @@
+{
+  "id": "technology",
+  "title": "Technology & Ideas",
+  "tagline": "Clear thinking for a connected world.",
+  "description": "Explore everyday technology, collaborative problem-solving, and the choices behind responsible digital products.",
+  "level": "B2",
+  "category": "Professional",
+  "chapters": [
+    {
+      "id": "technology-01",
+      "title": "Digital Life with Purpose",
+      "description": "Use everyday tools deliberately and keep convenience from becoming distraction.",
+      "sentences": [
+        {
+          "id": "technology-001",
+          "text": "I turned off most notifications because being constantly available was making it harder to concentrate.",
+          "hint": "Reduce interruptions to protect sustained attention."
+        },
+        {
+          "id": "technology-002",
+          "text": "Before adding another app to my routine, I ask whether it solves a problem I actually have.",
+          "hint": "Choose digital tools for genuine needs."
+        },
+        {
+          "id": "technology-003",
+          "text": "A shared calendar saves time only if everyone keeps their availability up to date.",
+          "hint": "Coordination depends on accurate information from everyone."
+        },
+        {
+          "id": "technology-004",
+          "text": "I prefer downloading important travel details in case I lose my internet connection.",
+          "hint": "Prepare essential information for use offline."
+        },
+        {
+          "id": "technology-005",
+          "text": "The convenience of automatic renewal can hide subscriptions we no longer use.",
+          "hint": "Review recurring charges rather than forgetting them."
+        },
+        {
+          "id": "technology-006",
+          "text": "Moving photos to online storage freed up space, but I still keep a separate backup.",
+          "hint": "Combine convenient storage with an independent safety copy."
+        },
+        {
+          "id": "technology-007",
+          "text": "We agreed that an urgent message should be followed by a call rather than several more messages.",
+          "hint": "Use a direct channel when a response matters immediately."
+        },
+        {
+          "id": "technology-008",
+          "text": "The new payment method is faster, although I would like a clearer record of each purchase.",
+          "hint": "Balance quicker transactions with useful spending records."
+        },
+        {
+          "id": "technology-009",
+          "text": "I set aside part of the evening without screens so that work does not fill every spare moment.",
+          "hint": "Create a boundary between work and personal time."
+        },
+        {
+          "id": "technology-010",
+          "text": "A tool that promises to simplify life should not require constant attention.",
+          "hint": "Judge convenience by the effort it really demands."
+        }
+      ]
+    },
+    {
+      "id": "technology-02",
+      "title": "Discussing Development Clearly",
+      "description": "Define useful changes, coordinate work, and explain the reasoning behind a release.",
+      "sentences": [
+        {
+          "id": "technology-011",
+          "text": "Could we describe the problem from the user's point of view before discussing how to build the solution?",
+          "hint": "Understand the need before proposing technical work."
+        },
+        {
+          "id": "technology-012",
+          "text": "This feature depends on another team's work, so our delivery estimate needs to reflect that uncertainty.",
+          "hint": "Account for outside dependencies when predicting completion."
+        },
+        {
+          "id": "technology-013",
+          "text": "I would rather release a small, reliable improvement than delay everything for a perfect version.",
+          "hint": "Favor dependable progress over waiting for perfection."
+        },
+        {
+          "id": "technology-014",
+          "text": "The code is easier to maintain when its purpose is clear to someone who did not write it.",
+          "hint": "Make technical work understandable to future colleagues."
+        },
+        {
+          "id": "technology-015",
+          "text": "We should agree on what counts as finished before dividing the work into smaller tasks.",
+          "hint": "Define completion before assigning separate pieces."
+        },
+        {
+          "id": "technology-016",
+          "text": "My review focuses on possible failures as well as whether the feature works in the usual case.",
+          "hint": "Check unusual problems alongside expected behavior."
+        },
+        {
+          "id": "technology-017",
+          "text": "If we change this behavior, we need to explain the effect on people using older versions.",
+          "hint": "Consider compatibility when altering a product."
+        },
+        {
+          "id": "technology-018",
+          "text": "The estimate includes testing and documentation, not just the time spent writing code.",
+          "hint": "Plan for the whole job rather than implementation alone."
+        },
+        {
+          "id": "technology-019",
+          "text": "A short example would help us check whether we mean the same thing by this requirement.",
+          "hint": "Use a concrete case to confirm shared expectations."
+        },
+        {
+          "id": "technology-020",
+          "text": "Let's record the reason for this decision so that future changes do not start the same debate.",
+          "hint": "Preserve the reasoning so later teams have context."
+        }
+      ]
+    },
+    {
+      "id": "technology-03",
+      "title": "Designing for Real People",
+      "description": "Balance clarity, ease of use, and accessibility in everyday design decisions.",
+      "sentences": [
+        {
+          "id": "technology-021",
+          "text": "The screen looks cleaner without those labels, but new users may struggle to understand the icons.",
+          "hint": "Visual simplicity can reduce clarity for beginners."
+        },
+        {
+          "id": "technology-022",
+          "text": "We should test whether people can complete the task without someone explaining the interface.",
+          "hint": "Observe independent use rather than guided success."
+        },
+        {
+          "id": "technology-023",
+          "text": "A larger button may be easier to tap, especially when someone is using the app while walking.",
+          "hint": "Consider movement when sizing touch controls."
+        },
+        {
+          "id": "technology-024",
+          "text": "Color should support the meaning of a message rather than carry that meaning on its own.",
+          "hint": "Provide more than one way to recognize a message."
+        },
+        {
+          "id": "technology-025",
+          "text": "Asking for every detail at the start could discourage people before they experience any value.",
+          "hint": "Avoid demanding too much before showing usefulness."
+        },
+        {
+          "id": "technology-026",
+          "text": "The simplest layout is not always the one with the fewest visible options.",
+          "hint": "Removing choices does not automatically improve usability."
+        },
+        {
+          "id": "technology-027",
+          "text": "We kept the main action in the same place so that returning users would not need to search for it.",
+          "hint": "Maintain a familiar location for an important control."
+        },
+        {
+          "id": "technology-028",
+          "text": "This error message explains what happened but gives no useful advice about what to do next.",
+          "hint": "Help people recover instead of merely describing failure."
+        },
+        {
+          "id": "technology-029",
+          "text": "A smooth animation adds little if it makes a basic action feel slow.",
+          "hint": "Do not let decorative movement delay essential tasks."
+        },
+        {
+          "id": "technology-030",
+          "text": "Designing for people with different abilities often reveals improvements that benefit everyone.",
+          "hint": "Inclusive design can produce widely useful changes."
+        }
+      ]
+    },
+    {
+      "id": "technology-04",
+      "title": "Troubleshooting with a Method",
+      "description": "Investigate problems systematically, communicate clearly, and learn from failures.",
+      "sentences": [
+        {
+          "id": "technology-031",
+          "text": "The problem appears only on slower connections, which explains why our office tests did not reveal it.",
+          "hint": "Test conditions may hide problems experienced elsewhere."
+        },
+        {
+          "id": "technology-032",
+          "text": "Before changing any settings, let's check whether we can reproduce the issue consistently.",
+          "hint": "Establish a repeatable failure before attempting repairs."
+        },
+        {
+          "id": "technology-033",
+          "text": "Restarting the device removed the symptom, but we still need to understand the cause.",
+          "hint": "Temporary recovery does not explain the underlying problem."
+        },
+        {
+          "id": "technology-034",
+          "text": "I compared the last working version with the current one to narrow down what had changed.",
+          "hint": "Investigate differences between success and failure."
+        },
+        {
+          "id": "technology-035",
+          "text": "The warning looked serious, although the activity record showed that no information had been lost.",
+          "hint": "Use recorded evidence to assess an alarming message."
+        },
+        {
+          "id": "technology-036",
+          "text": "Could you describe what you were doing just before the screen stopped responding?",
+          "hint": "Ask for the sequence leading up to a failure."
+        },
+        {
+          "id": "technology-037",
+          "text": "We changed one thing at a time so we could tell which adjustment made a difference.",
+          "hint": "Isolate changes to identify what actually helps."
+        },
+        {
+          "id": "technology-038",
+          "text": "A temporary fix is useful as long as its limitations are clearly explained.",
+          "hint": "Be transparent about the scope of a short-term solution."
+        },
+        {
+          "id": "technology-039",
+          "text": "The service recovered after we reversed the update, and we are investigating why the update failed.",
+          "hint": "Restore normal operation while continuing the investigation."
+        },
+        {
+          "id": "technology-040",
+          "text": "Our incident notes should explain how to prevent a similar problem, not simply who was involved.",
+          "hint": "Focus the review on prevention rather than blame."
+        }
+      ]
+    },
+    {
+      "id": "technology-05",
+      "title": "Privacy and Digital Trust",
+      "description": "Question permissions, limit unnecessary collection, and make control meaningful.",
+      "sentences": [
+        {
+          "id": "technology-041",
+          "text": "An app does not need access to your contacts merely because that permission would make one feature easier to build.",
+          "hint": "Developer convenience does not justify broad permissions."
+        },
+        {
+          "id": "technology-042",
+          "text": "We should explain why we collect each piece of information in language people can understand.",
+          "hint": "Give clear reasons for requesting personal details."
+        },
+        {
+          "id": "technology-043",
+          "text": "A strong password is less useful if the same one is reused across several accounts.",
+          "hint": "Protect accounts with distinct credentials."
+        },
+        {
+          "id": "technology-044",
+          "text": "I want to withdraw my permission as easily as I gave it.",
+          "hint": "Make changing consent straightforward in both directions."
+        },
+        {
+          "id": "technology-045",
+          "text": "Keeping information forever creates risks even when storing it costs very little.",
+          "hint": "Consider exposure as well as storage expenses."
+        },
+        {
+          "id": "technology-046",
+          "text": "Private browsing limits what stays on your device, but it does not make your activity invisible to everyone.",
+          "hint": "Local browsing privacy is not complete anonymity."
+        },
+        {
+          "id": "technology-047",
+          "text": "Sharing a document with a link is convenient, although the link may travel beyond the intended group.",
+          "hint": "Easy sharing can widen access unexpectedly."
+        },
+        {
+          "id": "technology-048",
+          "text": "Before using a new service, I check whether I can export and delete my information.",
+          "hint": "Confirm that you can leave with control over your data."
+        },
+        {
+          "id": "technology-049",
+          "text": "We removed identifying details from the report, but unusual combinations of facts could still reveal someone.",
+          "hint": "Indirect clues may undermine attempts to hide identities."
+        },
+        {
+          "id": "technology-050",
+          "text": "Trust depends on what a product actually does with personal information, not just what its policy promises.",
+          "hint": "Judge privacy through behavior rather than assurances alone."
+        }
+      ]
+    },
+    {
+      "id": "technology-06",
+      "title": "Making Sense of Data",
+      "description": "Read charts critically, question comparisons, and express uncertainty honestly.",
+      "sentences": [
+        {
+          "id": "technology-051",
+          "text": "Sales increased after the redesign, but that alone does not prove the redesign caused the increase.",
+          "hint": "Events happening in sequence do not establish causation."
+        },
+        {
+          "id": "technology-052",
+          "text": "The chart looks dramatic because the vertical scale begins close to the lowest value.",
+          "hint": "Axis choices can exaggerate the appearance of change."
+        },
+        {
+          "id": "technology-053",
+          "text": "An average can hide important differences between people who use the product in different ways.",
+          "hint": "Look beyond a summary to compare user groups."
+        },
+        {
+          "id": "technology-054",
+          "text": "We should compare the results with a similar period rather than with an unusually quiet week.",
+          "hint": "Choose a fair baseline for evaluating performance."
+        },
+        {
+          "id": "technology-055",
+          "text": "The survey may underrepresent people who rarely check their email.",
+          "hint": "A response channel can affect whose views are heard."
+        },
+        {
+          "id": "technology-056",
+          "text": "A larger sample can reduce uncertainty, but it cannot repair a poorly worded question.",
+          "hint": "More responses cannot solve flawed survey design."
+        },
+        {
+          "id": "technology-057",
+          "text": "These missing entries might affect the conclusion, depending on why the information was not recorded.",
+          "hint": "Investigate the reasons behind gaps in the evidence."
+        },
+        {
+          "id": "technology-058",
+          "text": "Instead of reporting a single number, we should show a reasonable range of possible outcomes.",
+          "hint": "Communicate uncertainty rather than suggesting false precision."
+        },
+        {
+          "id": "technology-059",
+          "text": "The measure is easy to collect, although it may not reflect the experience we actually want to improve.",
+          "hint": "A convenient metric may miss the real goal."
+        },
+        {
+          "id": "technology-060",
+          "text": "I would like to see the original figures before accepting the explanation attached to this graph.",
+          "hint": "Check the underlying evidence before endorsing an interpretation."
+        }
+      ]
+    },
+    {
+      "id": "technology-07",
+      "title": "Working with the Limits of AI",
+      "description": "Use automated assistance critically while retaining human judgment and responsibility.",
+      "sentences": [
+        {
+          "id": "technology-061",
+          "text": "The assistant produced a confident answer, but we could not verify the source it claimed to use.",
+          "hint": "Confidence does not guarantee a genuine reference."
+        },
+        {
+          "id": "technology-062",
+          "text": "A fluent response can sound convincing even when the reasoning behind it is weak.",
+          "hint": "Polished language can conceal an unsound argument."
+        },
+        {
+          "id": "technology-063",
+          "text": "We use the tool to suggest possible approaches, while keeping responsibility for the final decision ourselves.",
+          "hint": "Treat automated suggestions as support rather than authority."
+        },
+        {
+          "id": "technology-064",
+          "text": "Good results on a test do not guarantee that a system will behave reliably in an unfamiliar situation.",
+          "hint": "Measured success may not transfer to new conditions."
+        },
+        {
+          "id": "technology-065",
+          "text": "If the examples used to train a model exclude certain groups, its suggestions may serve those groups poorly.",
+          "hint": "Missing representation can lead to unequal performance."
+        },
+        {
+          "id": "technology-066",
+          "text": "I would not enter confidential meeting notes into a tool without checking how those notes are handled.",
+          "hint": "Check data handling before providing sensitive material."
+        },
+        {
+          "id": "technology-067",
+          "text": "The first draft saved time, although reviewing its claims took longer than we expected.",
+          "hint": "Include verification effort when judging time savings."
+        },
+        {
+          "id": "technology-068",
+          "text": "Asking the system to explain an answer may reveal problems, but the explanation itself still needs checking.",
+          "hint": "Generated reasoning is also subject to error."
+        },
+        {
+          "id": "technology-069",
+          "text": "Some tasks require judgment about values and consequences, not merely a prediction of the most likely response.",
+          "hint": "Ethical decisions need more than statistical expectations."
+        },
+        {
+          "id": "technology-070",
+          "text": "We should give people a clear way to question decisions made with automated support.",
+          "hint": "Provide a route to challenge machine-assisted decisions."
+        }
+      ]
+    },
+    {
+      "id": "technology-08",
+      "title": "Technology That Lasts",
+      "description": "Consider resource use, repair, and the environmental cost of digital convenience.",
+      "sentences": [
+        {
+          "id": "technology-071",
+          "text": "Replacing a working device may cancel out some of the energy savings promised by a newer model.",
+          "hint": "Weigh replacement impacts against improved efficiency."
+        },
+        {
+          "id": "technology-072",
+          "text": "We extended the life of our laptops by replacing worn batteries instead of the entire machines.",
+          "hint": "Repair individual parts to avoid unnecessary replacement."
+        },
+        {
+          "id": "technology-073",
+          "text": "A service that stores less unnecessary information may use fewer resources as well as reduce privacy risks.",
+          "hint": "Keeping less data can offer multiple benefits."
+        },
+        {
+          "id": "technology-074",
+          "text": "The environmental cost of a product includes how it is made, transported, used, and eventually discarded.",
+          "hint": "Assess impacts across the whole product life cycle."
+        },
+        {
+          "id": "technology-075",
+          "text": "Repair instructions are valuable only when suitable parts are also available at a reasonable price.",
+          "hint": "Practical repair depends on affordable components too."
+        },
+        {
+          "id": "technology-076",
+          "text": "Lower energy use per task does not always mean lower total energy use if demand rises sharply.",
+          "hint": "Efficiency gains can be outweighed by increased use."
+        },
+        {
+          "id": "technology-077",
+          "text": "We scheduled large background tasks less often after discovering that most results were never opened.",
+          "hint": "Reduce resource use by avoiding work nobody needs."
+        },
+        {
+          "id": "technology-078",
+          "text": "Buying used equipment can be a practical option when its condition and support history are clear.",
+          "hint": "Consider secondhand devices after checking their reliability."
+        },
+        {
+          "id": "technology-079",
+          "text": "Our sustainability claims should state what was measured instead of relying on vague promises about being green.",
+          "hint": "Back environmental statements with specific evidence."
+        },
+        {
+          "id": "technology-080",
+          "text": "A longer support period can help people keep devices that still meet their needs.",
+          "hint": "Continued updates can extend useful ownership."
+        }
+      ]
+    },
+    {
+      "id": "technology-09",
+      "title": "Turning Ideas into Useful Change",
+      "description": "Test assumptions, learn from small experiments, and build around real needs.",
+      "sentences": [
+        {
+          "id": "technology-081",
+          "text": "The idea became more useful once we focused on a specific difficulty rather than an impressive piece of technology.",
+          "hint": "Start innovation with a problem worth solving."
+        },
+        {
+          "id": "technology-082",
+          "text": "We built a rough version to learn which parts of the proposal people actually valued.",
+          "hint": "Use an early model to discover what matters."
+        },
+        {
+          "id": "technology-083",
+          "text": "Early enthusiasm is encouraging, but repeated use tells us more about whether a product meets a lasting need.",
+          "hint": "Look for ongoing value beyond initial excitement."
+        },
+        {
+          "id": "technology-084",
+          "text": "A failed experiment can still be worthwhile if it answers a question that matters.",
+          "hint": "Useful learning can justify an unsuccessful trial."
+        },
+        {
+          "id": "technology-085",
+          "text": "We invited colleagues from outside the project because they were less likely to accept our assumptions.",
+          "hint": "Seek fresh perspectives to challenge established thinking."
+        },
+        {
+          "id": "technology-086",
+          "text": "The most original suggestion came from someone who had only recently joined the team.",
+          "hint": "A newcomer can contribute an unexpected insight."
+        },
+        {
+          "id": "technology-087",
+          "text": "Instead of asking whether the idea sounded exciting, we asked what would persuade someone to try it.",
+          "hint": "Explore practical motivation rather than general approval."
+        },
+        {
+          "id": "technology-088",
+          "text": "A small trial lets us explore the benefits without committing everyone to a costly change.",
+          "hint": "Learn at limited scale before investing widely."
+        },
+        {
+          "id": "technology-089",
+          "text": "We adjusted the concept after discovering that customers were solving a different problem with our prototype.",
+          "hint": "Let unexpected uses reshape the original proposal."
+        },
+        {
+          "id": "technology-090",
+          "text": "Innovation can mean removing an unnecessary step rather than adding a feature no one requested.",
+          "hint": "Simplification can be a meaningful form of progress."
+        }
+      ]
+    },
+    {
+      "id": "technology-10",
+      "title": "Choosing Thoughtfully",
+      "description": "Weigh competing benefits, explain costs openly, and stay ready to reconsider.",
+      "sentences": [
+        {
+          "id": "technology-091",
+          "text": "Faster delivery matters, but not enough to justify skipping checks that protect people's information.",
+          "hint": "Do not sacrifice safeguards merely to ship sooner."
+        },
+        {
+          "id": "technology-092",
+          "text": "We could offer more personalization, although doing so would require collecting details that some people prefer to keep private.",
+          "hint": "Tailored experiences can conflict with data minimization."
+        },
+        {
+          "id": "technology-093",
+          "text": "The cheapest option today may become expensive if it is difficult to maintain or replace later.",
+          "hint": "Compare lifetime costs rather than initial price alone."
+        },
+        {
+          "id": "technology-094",
+          "text": "Making every setting adjustable gives people control, but it can also make simple tasks feel complicated.",
+          "hint": "Balance flexibility against the effort of managing choices."
+        },
+        {
+          "id": "technology-095",
+          "text": "We need to decide which decisions should happen automatically and which deserve a person's attention.",
+          "hint": "Choose deliberately where human involvement adds value."
+        },
+        {
+          "id": "technology-096",
+          "text": "A feature that helps frequent users may create extra work for people who visit only occasionally.",
+          "hint": "Assess effects on different patterns of use."
+        },
+        {
+          "id": "technology-097",
+          "text": "Rather than hiding the disadvantages, we should explain who benefits from the choice and who might lose out.",
+          "hint": "Make the distribution of benefits and costs explicit."
+        },
+        {
+          "id": "technology-098",
+          "text": "Choosing a familiar tool can be sensible when the cost of switching exceeds the likely benefit.",
+          "hint": "Change is not worthwhile in every situation."
+        },
+        {
+          "id": "technology-099",
+          "text": "We should revisit this decision if the evidence changes instead of treating our original plan as a promise.",
+          "hint": "Keep choices responsive to new information."
+        },
+        {
+          "id": "technology-100",
+          "text": "A responsible recommendation makes the trade-offs visible and leaves room for people to choose differently.",
+          "hint": "Explain competing priorities while respecting individual preferences."
+        }
+      ]
+    }
+  ]
+}
